@@ -1,113 +1,5 @@
 [
  {
-  "id": "zn:CC120989510J40911911813",
-  "company": "江苏恒瑞医药股份有限公司",
-  "title": "BBU-零售品牌经理/产品经理Retail（处方药零售） (MJ022616)",
-  "city": "上海",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "3.5-4万",
-  "salary_min": 35000,
-  "salary_max": 40000,
-  "salary_note": "招聘方标注的高区间，多为底薪加提成，底薪需面谈核实",
-  "group": "产品与注册",
-  "track": "产品",
-  "edu": "本科",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": true,
-  "big_tier": "头部药企",
-  "reason": "医疗器械产品岗，靠临床理解做需求和培训，医学背景直接加分；本科起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CC120989510J40911911813.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "3.5-4万"
- },
- {
-  "id": "zn:CC000616790J40912494508",
-  "company": "威高集团",
-  "title": "设备省区销售经理（麻醉机、超声、输注泵、呼吸机、泌尿设备））(J15022)",
-  "city": "南京",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "2.5-5万",
-  "salary_min": 25000,
-  "salary_max": 50000,
-  "salary_note": "招聘方标注的高区间，多为底薪加提成，底薪需面谈核实",
-  "group": "销售",
-  "track": "销售",
-  "edu": "本科",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": true,
-  "big_tier": "国产头部",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；本科起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CC000616790J40912494508.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "2.5-5万"
- },
- {
-  "id": "zn:CCL1236913320J40885816701",
-  "company": "沈阳康恩德医疗科技有限公司",
-  "title": "市场经理",
-  "city": "上海",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "1.5-3万·14薪",
-  "salary_min": 15000,
-  "salary_max": 30000,
-  "salary_note": "",
-  "group": "产品与注册",
-  "track": "产品",
-  "edu": "本科",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "医疗器械产品岗，靠临床理解做需求和培训，医学背景直接加分；本科起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CCL1236913320J40885816701.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "1.5-3万·14薪"
- },
- {
   "id": "zn:CCL1354959820J40955361615",
   "company": "南京康为医疗器械有限公司",
   "title": "骨科临床（产品已入院/手术跟台/客情维护）",
@@ -129,42 +21,6 @@
   "big_tier": "",
   "reason": "对医院做产品培训和跟台支持，不执业也能干，临床背景是硬优势；学历不限起投、经验不限",
   "url": "https://jobs.zhaopin.com/CCL1354959820J40955361615.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "1.5-3万"
- },
- {
-  "id": "zn:CC120482060J41040038502",
-  "company": "北京博诺威医药科技发展有限公司",
-  "title": "CRO商务经理",
-  "city": "宁波",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "1.5-3万",
-  "salary_min": 15000,
-  "salary_max": 30000,
-  "salary_note": "",
-  "group": "销售",
-  "track": "销售",
-  "edu": "本科",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；本科起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CC120482060J41040038502.htm",
   "link_kind": "招聘平台",
   "source": "智联招聘",
   "verified_at": "2026-10-25",
@@ -216,7 +72,7 @@
   "salary_display": "1.5-2.5万·13薪"
  },
  {
-  "id": "ext:987536818",
+  "id": "ext:1022396519",
   "company": "传化集团",
   "title": "医务科科员（医院项目）",
   "city": "杭州",
@@ -272,7 +128,7 @@
   "salary_display": "13K~23K"
  },
  {
-  "id": "ext:6204856898",
+  "id": "ext:1977569675",
   "company": "英谛捷",
   "title": "医学编辑/科学内容写作（Scientific Content Writer）",
   "city": "上海",
@@ -358,7 +214,7 @@
   "salary_display": "1.2-1.8万"
  },
  {
-  "id": "ext:412451054",
+  "id": "ext:7068699473",
   "company": "美敦力",
   "title": "Clinical Specialist 临床技术专员（起搏器·应届可投）",
   "city": "上海",
@@ -407,43 +263,7 @@
   "salary_display": "12K~18K"
  },
  {
-  "id": "zn:CC514675480J40910386303",
-  "company": "浙江亚宏医疗器材有限公司",
-  "title": "口腔省区经理——陌拜方向销售",
-  "city": "湖州",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "1.1-2.2万",
-  "salary_min": 11000,
-  "salary_max": 22000,
-  "salary_note": "",
-  "group": "销售",
-  "track": "销售",
-  "edu": "大专",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；大专起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CC514675480J40910386303.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "1.1-2.2万"
- },
- {
-  "id": "ext:1541226243",
+  "id": "ext:7429063225",
   "company": "旺山旺水生物医药",
   "title": "CRA（经验不限·学生可投）",
   "city": "苏州",
@@ -492,7 +312,7 @@
   "salary_display": "11K~20K·13薪"
  },
  {
-  "id": "ext:9743412020",
+  "id": "ext:2554770527",
   "company": "锦江电子",
   "title": "临床技术支持工程师（电生理·优秀应届可）",
   "city": "上海",
@@ -542,7 +362,7 @@
   "salary_display": "10K~25K"
  },
  {
-  "id": "ext:6969944419",
+  "id": "ext:3972411074",
   "company": "汇禾医疗",
   "title": "医学技术支持（结构心·学生可投）",
   "city": "杭州",
@@ -589,42 +409,6 @@
   "date": "2026-10-25",
   "first_seen": "",
   "salary_display": "10K~22K"
- },
- {
-  "id": "zn:CC381255110J40786153207",
-  "company": "翔宇医疗",
-  "title": "全国销售经理（上市公司+五险一金）优先江浙沪区域",
-  "city": "衢州",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "1-2万",
-  "salary_min": 10000,
-  "salary_max": 20000,
-  "salary_note": "",
-  "group": "销售",
-  "track": "销售",
-  "edu": "本科",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；本科起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CC381255110J40786153207.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "1-2万"
  },
  {
   "id": "zn:CC546871520J40876782607",
@@ -735,56 +519,7 @@
   "salary_display": "1-2万"
  },
  {
-  "id": "ext:5782489817",
-  "company": "劲方医药",
-  "title": "药物警戒运营专员/主管（0-3年）",
-  "city": "上海",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "10K~20K",
-  "salary_min": 10000,
-  "salary_max": 20000,
-  "salary_note": "",
-  "group": "医学事务",
-  "track": "药物警戒PV",
-  "edu": "本科",
-  "exp": "本科·0-3年经验",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "上市药企PV，0经验可投",
-  "url": "https://www.liepin.com/job/1984658105.shtml",
-  "link_kind": "招聘平台",
-  "source": "猎聘",
-  "verified_at": "2026-10-25",
-  "duties": [
-   "个例安全报告接收、录入、质控、随访；PV专线与邮箱处理",
-   "文献检索、SOP维护、协助DSUR/CSR安全性部分撰写"
-  ],
-  "requirements": [
-   "医学、药学、流行病学本科及以上",
-   "0-3年工作经验（0年可投），临床医生经验优先；英语良好"
-  ],
-  "benefits": [
-   "五险一金、午餐交通通讯补助、弹性工作、年度旅游",
-   "招3人，8月5日更新"
-  ],
-  "warnings": [
-   "英语要求“良好”，面试可能有英文环节",
-   "上海张江，通勤成本",
-   "职位8月发布，投前确认"
-  ],
-  "comment": "港股上市创新药企（国内首个KRAS G12C抑制剂）的PV岗，JD写“0-3年”，没有工作经验也能投，本科医学可投、招3人。PV就是评估药品不良反应，临床知识直接用得上，几乎不出差，越做越值钱。代价：英语要好；上海浦东通勤与生活成本。",
-  "dev_path": "PV专员 → 高级PV/信号管理 → PV经理",
-  "dev_ceiling": "5~8年后月薪2.5~3.5万",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "10K~20K"
- },
- {
-  "id": "ext:9153424197",
+  "id": "ext:8188370569",
   "company": "晖致医药（Viatris）",
   "title": "医学信息沟通专员（经验不限·外企）",
   "city": "南京",
@@ -906,7 +641,7 @@
   "salary_display": "1-1.8万"
  },
  {
-  "id": "ext:8827368392",
+  "id": "ext:8031591854",
   "company": "梅斯医学",
   "title": "医学编辑（呼吸/肿瘤/营养·经验不限）",
   "city": "上海",
@@ -1100,7 +835,7 @@
   "salary_display": "1-1.5万·13薪"
  },
  {
-  "id": "ext:909008770",
+  "id": "ext:6656363790",
   "company": "舒辅(上海)信息技术",
   "title": "医学编辑（智慧医疗·接受本科应届）",
   "city": "上海",
@@ -1149,7 +884,7 @@
   "salary_display": "10K~15K·13薪"
  },
  {
-  "id": "ext:4214285367",
+  "id": "ext:6638689650",
   "company": "辉瑞中国",
   "title": "医学信息沟通专员（代谢领域·学生可投）",
   "city": "上海",
@@ -1198,7 +933,7 @@
   "salary_display": "10K~15K"
  },
  {
-  "id": "ext:2777967272",
+  "id": "ext:6440056416",
   "company": "诗迈医药代招",
   "title": "临床监查员CRA（应届可培养·经验不限）",
   "city": "南京",
@@ -1248,7 +983,7 @@
   "salary_display": "10K~15K·14薪"
  },
  {
-  "id": "ext:3301162934",
+  "id": "ext:9273869728",
   "company": "美敦力",
   "title": "临床技术支持专员（起搏器·杭州·应届可投）",
   "city": "杭州",
@@ -1298,42 +1033,6 @@
   "salary_display": "10K~14K·13薪"
  },
  {
-  "id": "zn:CCL1340162150J41042245002",
-  "company": "挪亚检验认证集团有限公司",
-  "title": "质量工程师/主管（生物分析方向）",
-  "city": "上海",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "1-1.2万",
-  "salary_min": 10000,
-  "salary_max": 12000,
-  "salary_note": "",
-  "group": "产品与注册",
-  "track": "注册质量",
-  "edu": "大专",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "器械注册与质量体系，法规门槛靠学习补，应届可培养；大专起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CCL1340162150J41042245002.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "1-1.2万"
- },
- {
   "id": "zn:CCL1465481310J40827034009",
   "company": "西洁医疗科技(杭州)有限公司",
   "title": "医疗器械销售专员",
@@ -1370,7 +1069,7 @@
   "salary_display": "1-1.2万"
  },
  {
-  "id": "ext:4960318563",
+  "id": "ext:8570294465",
   "company": "博纳西亚医药科技",
   "title": "临床监查员CRA（经验不限·学生可投）",
   "city": "南京",
@@ -1491,43 +1190,6 @@
   "salary_display": "9000-11000元"
  },
  {
-  "id": "zn:CCL1236913320J40885114501",
-  "company": "沈阳康恩德医疗科技有限公司",
-  "title": "视光产品区域销售经理",
-  "city": "上海",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "8000-16000元",
-  "salary_min": 8000,
-  "salary_max": 16000,
-  "salary_note": "",
-  "group": "销售",
-  "track": "销售",
-  "edu": "大专",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；大专起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CCL1236913320J40885114501.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "merged_from": "智联招聘",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "8000-16000元"
- },
- {
   "id": "zn:CC811184130J40400764316",
   "company": "连云港齐健医疗器械有限公司",
   "title": "销售顾问代表",
@@ -1599,42 +1261,6 @@
   "date": "2026-10-25",
   "first_seen": "",
   "salary_display": "8000-16000元"
- },
- {
-  "id": "zn:CCL1351271390J40884706107",
-  "company": "长沙眼医医疗科技有限公司",
-  "title": "眼科医疗器械销售经理（江苏）",
-  "city": "南京",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "8000-15000元",
-  "salary_min": 8000,
-  "salary_max": 15000,
-  "salary_note": "",
-  "group": "销售",
-  "track": "销售",
-  "edu": "大专",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；大专起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CCL1351271390J40884706107.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "8000-15000元"
  },
  {
   "id": "zn:CC843428170J41040086704",
@@ -1890,7 +1516,7 @@
   "salary_display": "8000-15000元"
  },
  {
-  "id": "ext:7552205334",
+  "id": "ext:5757748209",
   "company": "锐健马斯汀",
   "title": "产品专员（医疗器械）",
   "city": "上海",
@@ -1938,7 +1564,7 @@
   "salary_display": "8K~15K"
  },
  {
-  "id": "ext:2760157692",
+  "id": "ext:3418636810",
   "company": "汇禾医疗",
   "title": "储备干部（医学部·应届生）",
   "city": "上海",
@@ -1987,7 +1613,7 @@
   "salary_display": "8K~15K"
  },
  {
-  "id": "ext:8990377612",
+  "id": "ext:3113990355",
   "company": "汇知康",
   "title": "产品推广专员（麻醉/营养/重症·多城）",
   "city": "杭州",
@@ -2035,7 +1661,7 @@
   "salary_display": "8K~15K"
  },
  {
-  "id": "ext:8823730222",
+  "id": "ext:5901635887",
   "company": "上海医微讯数字科技",
   "title": "医学编辑（经验不限·学生可投）",
   "city": "上海",
@@ -2265,7 +1891,7 @@
   "salary_display": "8000-12000元"
  },
  {
-  "id": "ext:4441140611",
+  "id": "ext:681981287",
   "company": "强生（上海）医疗器材",
   "title": "临床技术专员（心脏电生理·经验不限）",
   "city": "上海",
@@ -2314,7 +1940,7 @@
   "salary_display": "8K~12K·13薪"
  },
  {
-  "id": "ext:5262330930",
+  "id": "ext:4830808831",
   "company": "玉森新药",
   "title": "临床监查员CRA（稽查方向·学生可投）",
   "city": "苏州",
@@ -2364,7 +1990,7 @@
   "salary_display": "8K~12K"
  },
  {
-  "id": "ext:3391165044",
+  "id": "ext:1016295001",
   "company": "良医汇",
   "title": "医学编辑（肿瘤领域·学生可投）",
   "city": "苏州",
@@ -2414,7 +2040,7 @@
   "salary_display": "8K~12K·13薪"
  },
  {
-  "id": "ext:7606945523",
+  "id": "ext:7208834815",
   "company": "北京佰仁医疗科技",
   "title": "产品专员（临床医学类专业·心脏瓣膜）",
   "city": "杭州",
@@ -2463,7 +2089,7 @@
   "salary_display": "8K~12K"
  },
  {
-  "id": "ext:2573469193",
+  "id": "ext:4013589007",
   "company": "恒瑞医药",
   "title": "医学项目管理专员（恒瑞医学·经验不限）",
   "city": "南京",
@@ -2512,7 +2138,7 @@
   "salary_display": "8K~12K"
  },
  {
-  "id": "ext:2348079460",
+  "id": "ext:3658715262",
   "company": "森勃医药信息咨询",
   "title": "医学编辑（文案写作·学生可投）",
   "city": "上海",
@@ -2559,57 +2185,7 @@
   "salary_display": "8K~12K"
  },
  {
-  "id": "ext:9154013908",
-  "company": "普门科技",
-  "title": "高级临床应用专员（电化学发光·学生可投）",
-  "city": "杭州",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "8K~12K",
-  "salary_min": 8000,
-  "salary_max": 12000,
-  "salary_note": "",
-  "group": "产品与注册",
-  "track": "医疗器械产品/注册",
-  "edu": "本科",
-  "exp": "本科·经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "普门杭州临床应用，科创板可投",
-  "url": "https://www.liepin.com/job/1983814571.shtml",
-  "link_kind": "招聘平台",
-  "source": "猎聘",
-  "verified_at": "2026-10-25",
-  "duties": [
-   "全自动电化学发光分析仪及试剂的性能验证、室间质评",
-   "内外部产品培训与上量推广，医院检验科操作培训",
-   "已装机客户技术支持与回访，协助市场竞品调研"
-  ],
-  "requirements": [
-   "医学检验或医学相关专业，有生化免疫临床应用经验优先",
-   "外向、逻辑强，具备演讲与试剂上量推广能力",
-   "擅长数据整理或文献检索"
-  ],
-  "benefits": [
-   "月薪8K-12K；科创板上市器械",
-   "五险一金等；工作地杭州上城区"
-  ],
-  "warnings": [
-   "猎聘可投，标注学生可投、经验不限",
-   "投递时说明临床背景与检验实习/课程"
-  ],
-  "comment": "对应「临床应用工程师」IVD向：科创板普门杭州临床应用岗，学生可投。临床本科可试，但JD偏医学检验。代价：含上量推广，偏检验场景。",
-  "dev_path": "临床应用专员 → 高级应用 → 应用经理/产品专员",
-  "dev_ceiling": "5~8年后月薪1.8~3万",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "8K~12K"
- },
- {
-  "id": "ext:9814357824",
+  "id": "ext:1973145621",
   "company": "杭州百诚医药科技",
   "title": "临床PM方向管培生（2026届·临床医学）",
   "city": "杭州",
@@ -2695,7 +2271,7 @@
   "salary_display": "8000-10000元"
  },
  {
-  "id": "ext:2799132766",
+  "id": "ext:5974991260",
   "company": "中公教育",
   "title": "医学考试培训讲师",
   "city": "全国",
@@ -2750,7 +2326,7 @@
   "salary_display": "8K~10K起"
  },
  {
-  "id": "ext:1807108737",
+  "id": "ext:9807727622",
   "company": "迈睿特（上海）医疗技术（MERITCRO）",
   "title": "临床项目协调员（应届生亦可·英语工作）",
   "city": "上海",
@@ -2799,7 +2375,7 @@
   "salary_display": "8K~10K·13薪"
  },
  {
-  "id": "ext:3033601588",
+  "id": "ext:2367584088",
   "company": "赛默飞世尔",
   "title": "临床试验助理CTA（经验不限·学生可投）",
   "city": "上海",
@@ -2849,7 +2425,7 @@
   "salary_display": "8K~9K·14薪"
  },
  {
-  "id": "ext:2566229561",
+  "id": "ext:8492508185",
   "company": "上海蓝生脑科医院",
   "title": "国际医疗部·接待翻译（英语·学生可投）",
   "city": "上海",
@@ -2934,7 +2510,7 @@
   "salary_display": "7000-14000元"
  },
  {
-  "id": "ext:9925585559",
+  "id": "ext:3097567964",
   "company": "南京西格玛医学技术",
   "title": "临床协调员CRC（器械·接受应届）",
   "city": "上海",
@@ -2984,7 +2560,7 @@
   "salary_display": "7K~14K·13薪"
  },
  {
-  "id": "ext:3888171639",
+  "id": "ext:9631880570",
   "company": "润东医药",
   "title": "临床协调员CRC（苏州·经验不限）",
   "city": "苏州",
@@ -3178,7 +2754,7 @@
   "salary_display": "7000-12000元"
  },
  {
-  "id": "ext:9540271872",
+  "id": "ext:2750002522",
   "company": "恒瑞医药",
   "title": "临床科研助理（麻醉事业部·经验不限）",
   "city": "南京",
@@ -3226,42 +2802,6 @@
   "date": "2026-10-25",
   "first_seen": "",
   "salary_display": "7K~12K"
- },
- {
-  "id": "zn:CC612003230J40911764403",
-  "company": "高通医疗控股集团有限公司",
-  "title": "销售经理（江苏）",
-  "city": "徐州",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "7000-10000元",
-  "salary_min": 7000,
-  "salary_max": 10000,
-  "salary_note": "",
-  "group": "销售",
-  "track": "销售",
-  "edu": "大专",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；大专起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CC612003230J40911764403.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "7000-10000元"
  },
  {
   "id": "zn:CCL1381952170J40847522116",
@@ -3337,7 +2877,7 @@
   "salary_display": "7000-10000元"
  },
  {
-  "id": "ext:1477669236",
+  "id": "ext:2904532691",
   "company": "泰格医药",
   "title": "药物警戒专员（外派药厂·可考虑应届）",
   "city": "上海",
@@ -3387,7 +2927,7 @@
   "salary_display": "7K~8K"
  },
  {
-  "id": "ext:3353371805",
+  "id": "ext:1319826475",
   "company": "医药魔方",
   "title": "数据分析师（临床数据·医药数据库）",
   "city": "苏州",
@@ -3436,79 +2976,6 @@
   "salary_display": "6K~15K·14薪"
  },
  {
-  "id": "zn:CC390712780J40925999408",
-  "company": "北京湃生生物科技有限公司",
-  "title": "省区/区域销售经理/口腔医疗器械",
-  "city": "南通",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "6000-12000元",
-  "salary_min": 6000,
-  "salary_max": 12000,
-  "salary_note": "",
-  "group": "销售",
-  "track": "销售",
-  "edu": "大专",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；大专起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CC390712780J40925999408.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "merged_from": "智联招聘",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "6000-12000元"
- },
- {
-  "id": "zn:CC167264710J40790745416",
-  "company": "南京欧凡科技发展有限公司",
-  "title": "医疗器械区域销售经理",
-  "city": "南通",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "6000-12000元",
-  "salary_min": 6000,
-  "salary_max": 12000,
-  "salary_note": "",
-  "group": "销售",
-  "track": "销售",
-  "edu": "大专",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；大专起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CC167264710J40790745416.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "6000-12000元"
- },
- {
   "id": "zn:CCL1527778150J41024012702",
   "company": "温州九州垣煜健康科技有限公司",
   "title": "口腔耗材销售/浙江多地区/渠道销售",
@@ -3530,78 +2997,6 @@
   "big_tier": "",
   "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；大专起投、经验不限",
   "url": "https://jobs.zhaopin.com/CCL1527778150J41024012702.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "6000-12000元"
- },
- {
-  "id": "zn:CC814991730J40849560515",
-  "company": "浙江欣祥医疗器械有限公司",
-  "title": "销售经理（嘉兴）",
-  "city": "嘉兴",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "6000-12000元·14薪",
-  "salary_min": 6000,
-  "salary_max": 12000,
-  "salary_note": "",
-  "group": "销售",
-  "track": "销售",
-  "edu": "本科",
-  "exp": "1年以下",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；本科起投、经验门槛低",
-  "url": "https://jobs.zhaopin.com/CC814991730J40849560515.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "6000-12000元·14薪"
- },
- {
-  "id": "zn:CC454720330J40694876216",
-  "company": "浙江瑞派医疗科技有限公司",
-  "title": "售后大客户经理",
-  "city": "嘉兴",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "6000-12000元",
-  "salary_min": 6000,
-  "salary_max": 12000,
-  "salary_note": "",
-  "group": "销售",
-  "track": "销售",
-  "edu": "大专",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "面向医院和经销商的 ToB 器械销售，客户是专业人士，医学背景好切入；大专起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CC454720330J40694876216.htm",
   "link_kind": "招聘平台",
   "source": "智联招聘",
   "verified_at": "2026-10-25",
@@ -3653,7 +3048,7 @@
   "salary_display": "6000-12000元"
  },
  {
-  "id": "ext:9444181960",
+  "id": "ext:5562848995",
   "company": "普门科技",
   "title": "医疗器械市场推广（校招·上海/南京等）",
   "city": "上海",
@@ -4027,7 +3422,7 @@
   "salary_display": "6000-10000元·14薪"
  },
  {
-  "id": "ext:7406195976",
+  "id": "ext:2582898500",
   "company": "杭州药成医药科技",
   "title": "临床协调员CRC（经验不限·学生可投）",
   "city": "杭州",
@@ -4077,7 +3472,7 @@
   "salary_display": "6K~10K"
  },
  {
-  "id": "ext:3303048076",
+  "id": "ext:4383286279",
   "company": "杭州凡泰生物科技",
   "title": "国际注册专员（应届毕业生）",
   "city": "杭州",
@@ -4127,7 +3522,7 @@
   "salary_display": "6K~10K"
  },
  {
-  "id": "ext:8051539557",
+  "id": "ext:1171750717",
   "company": "上海形状记忆合金材料",
   "title": "管培生/医学技术支持（应届本科·医学类）",
   "city": "上海",
@@ -4538,7 +3933,7 @@
   "salary_display": "6000-8000元"
  },
  {
-  "id": "ext:7188994037",
+  "id": "ext:9858693330",
   "company": "恒誉康医药",
   "title": "杭州CRA（应届生·2026毕业生）",
   "city": "杭州",
@@ -4587,7 +3982,7 @@
   "salary_display": "6K~8K"
  },
  {
-  "id": "ext:7568685760",
+  "id": "ext:4325679331",
   "company": "南京享悦医院",
   "title": "医保干事（应届可·含智能审核）",
   "city": "南京",
@@ -4636,7 +4031,7 @@
   "salary_display": "6K~8K"
  },
  {
-  "id": "ext:7529315867",
+  "id": "ext:9921766487",
   "company": "圣德颐和医疗管理集团",
   "title": "病案管理员（杭州临平·接受应届）",
   "city": "杭州",
@@ -4684,7 +4079,7 @@
   "salary_display": "6K~8K"
  },
  {
-  "id": "ext:3805445856",
+  "id": "ext:4267882399",
   "company": "上海司太立制药",
   "title": "药物警戒专员（经验不限·学生可投）",
   "city": "上海",
@@ -4770,7 +4165,7 @@
   "salary_display": "6000-7000元"
  },
  {
-  "id": "ext:9446884582",
+  "id": "ext:6318729933",
   "company": "上海数图健康",
   "title": "医学编辑（《世界临床药物》期刊）",
   "city": "上海",
@@ -5440,7 +4835,7 @@
   "salary_display": "5000-10000元"
  },
  {
-  "id": "ext:2502853658",
+  "id": "ext:5631306228",
   "company": "浙江艺羽人力资源",
   "title": "医保审核岗（镇海医保经办·派遣非编）",
   "city": "宁波",
@@ -5489,7 +4884,7 @@
   "salary_display": "6万~12万/年"
  },
  {
-  "id": "ext:5684020140",
+  "id": "ext:4195066055",
   "company": "上海谊众药业",
   "title": "临床学术专员（肿瘤新药·招20人）",
   "city": "上海",
@@ -5546,7 +4941,7 @@
   "salary_display": "5K~10K"
  },
  {
-  "id": "ext:5137346574",
+  "id": "ext:3682039670",
   "company": "上海和睦家医院",
   "title": "病案室专员 MRD Officer（经验不限）",
   "city": "上海",
@@ -5597,7 +4992,7 @@
   "salary_display": "5K~10K"
  },
  {
-  "id": "ext:4314770428",
+  "id": "ext:3111498951",
   "company": "泰思维创医药",
   "title": "临床协调员CRC（杭州·学生可投）",
   "city": "杭州",
@@ -5718,42 +5113,6 @@
   "salary_display": "5000-8000元"
  },
  {
-  "id": "zn:CC678404720J41002243204",
-  "company": "江苏华恒医疗器械有限公司",
-  "title": "产品经理",
-  "city": "宿迁",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "5000-8000元",
-  "salary_min": 5000,
-  "salary_max": 8000,
-  "salary_note": "",
-  "group": "产品与注册",
-  "track": "产品",
-  "edu": "大专",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "reason": "医疗器械产品岗，靠临床理解做需求和培训，医学背景直接加分；大专起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CC678404720J41002243204.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "verified_at": "2026-10-25",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "date": "2026-10-25",
-  "first_seen": "",
-  "salary_display": "5000-8000元"
- },
- {
   "id": "zn:CCL1492546810J40690944602",
   "company": "南京市桢智医疗器械有限公司",
   "title": "宿迁销售代表底薪5000+高提成+五险一金",
@@ -5826,7 +5185,7 @@
   "salary_display": "5000-8000元"
  },
  {
-  "id": "ext:6321499896",
+  "id": "ext:9428479749",
   "company": "金华文荣医院",
   "title": "病案编码员（DRG/医保·接收应届）",
   "city": "金华",
@@ -5983,7 +5342,7 @@
   "salary_display": "5000-7000元"
  },
  {
-  "id": "ext:1996357179",
+  "id": "ext:9056079598",
   "company": "上海津石医药科技",
   "title": "临床协调员CRC（药明康德旗下）",
   "city": "全国",
@@ -6033,7 +5392,7 @@
   "salary_display": "5K~7K"
  },
  {
-  "id": "ext:7159613229",
+  "id": "ext:8461679445",
   "company": "紫东信息科技",
   "title": "医学专员（AI医学标注·应届可）",
   "city": "苏州",
@@ -7057,7 +6416,7 @@
   "salary_display": "80-100元/天"
  },
  {
-  "id": "ext:3811094818",
+  "id": "ext:6461237523",
   "company": "杭州医学院附属义乌医院",
   "title": "国际医疗客服（双语接待）",
   "city": "浙江",
@@ -7109,7 +6468,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:7363262683",
+  "id": "ext:4036216893",
   "company": "杭州拱墅江南康复医院",
   "title": "医务科干事 / 病案管理员",
   "city": "杭州",
@@ -7162,7 +6521,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:7268803714",
+  "id": "ext:2662327081",
   "company": "华润双鹤药业",
   "title": "药物警戒专员（应届·上海）",
   "city": "上海",
@@ -7211,7 +6570,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:4614688890",
+  "id": "ext:3020569674",
   "company": "外企德科（客户：大疆创新）",
   "title": "医学编辑（经验不限·招5人）",
   "city": "杭州",
@@ -7260,7 +6619,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:4180674732",
+  "id": "ext:7268988085",
   "company": "泰康之家",
   "title": "医务专员（2026届·杭州）",
   "city": "杭州",
@@ -7310,7 +6669,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:7587342365",
+  "id": "ext:2470402209",
   "company": "远大生物",
   "title": "医学信息沟通专员（2026应届·苏州）",
   "city": "苏州",
@@ -7360,7 +6719,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:3859980734",
+  "id": "ext:8945390156",
   "company": "博纳西亚医药科技",
   "title": "临床数据管理专员（应届/无经验可·招8人）",
   "city": "南京",
@@ -7409,7 +6768,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:9077816473",
+  "id": "ext:6658649631",
   "company": "上海复旦奥医医学科技",
   "title": "医学编辑/医学支持（临床营养方向·应届可）",
   "city": "上海",
@@ -7459,7 +6818,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:6564123816",
+  "id": "ext:6138787434",
   "company": "朗盟医药科技(上海)",
   "title": "医学编辑（SCI方向·经验不限）",
   "city": "上海",
@@ -7508,7 +6867,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:4135135500",
+  "id": "ext:5638785040",
   "company": "上海凯宝药业",
   "title": "药物警戒专员（接受应届·临床医学可投）",
   "city": "上海",
@@ -7557,7 +6916,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:1763890094",
+  "id": "ext:7123108124",
   "company": "恒宇医疗",
   "title": "临床技术支持CS（冠脉介入·应届生优先）",
   "city": "上海",
@@ -7606,7 +6965,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:6665075059",
+  "id": "ext:8683870399",
   "company": "绍兴袍江医院",
   "title": "病案室干事（绍兴本地·临床医学可投）",
   "city": "绍兴",
@@ -7656,7 +7015,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:5404787517",
+  "id": "ext:9675012471",
   "company": "南微医学",
   "title": "临床支持培训生（技术业务类·25/26届）",
   "city": "上海",
@@ -7706,7 +7065,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:8804332434",
+  "id": "ext:7947762848",
   "company": "精鼎医药",
   "title": "临床试验助理CTA（经验不限·本科）",
   "city": "上海",
@@ -7756,7 +7115,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:5610912955",
+  "id": "ext:5404029646",
   "company": "康龙化成",
   "title": "临床协调员CRC实习（杭州·可转正路径）",
   "city": "杭州",
@@ -7806,7 +7165,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:1288001117",
+  "id": "ext:2874863090",
   "company": "惠泰医疗",
   "title": "临床技术工程师CS（校招·电生理方向）",
   "city": "全国",
@@ -7855,7 +7214,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:8851772388",
+  "id": "ext:2723345500",
   "company": "爱朋医疗",
   "title": "助理产品经理（应届·脑机/疼痛睡眠器械）",
   "city": "上海",
@@ -7905,7 +7264,7 @@
   "salary_display": "面议"
  },
  {
-  "id": "ext:1867596881",
+  "id": "ext:4283815682",
   "company": "爱朋医疗",
   "title": "市场部助理经理（应届·学术市场运营）",
   "city": "上海",
