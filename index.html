@@ -83,6 +83,7 @@ h1{font-family:var(--serif);font-size:30px;font-weight:600;line-height:1.28;lett
 
 /* ---------- result bar ---------- */
 .resultbar{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12.5px;color:var(--muted);margin:0 2px 12px;flex-wrap:wrap}
+.rside{display:flex;align-items:center;gap:14px}
 
 /* ---------- cards ---------- */
 .list{display:flex;flex-direction:column;gap:12px}
@@ -129,11 +130,33 @@ details.jd[open] summary::before{content:'▾ '}
 .tag.t-official{background:#eaf3ea;color:#2e6b3a;border-color:#cfe3d2;font-weight:600}
 .tag.t-stale{background:#f4f1ea;color:#8a7b62;border-color:#e4ddcd}
 .tag.t-hr{background:#fdeeea;color:#a5442c;border-color:#f3d5cc;font-weight:600}
+.tag.t-ap{background:#f0ebfa;color:#5b4390;border-color:#dcd1f0;font-weight:600}
+.acts{display:flex;align-items:center;gap:7px;flex-shrink:0}
 .go{
   font-size:12.5px;color:var(--accent-text);text-decoration:none;font-weight:600;
   border:1px solid #d7e5d9;background:var(--accent-soft);padding:5px 13px;border-radius:6px;white-space:nowrap;
 }
 .go:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+/* ---------- 已投递标记 ---------- */
+.ap{
+  font-family:inherit;font-size:12.5px;font-weight:600;line-height:1.35;cursor:pointer;
+  padding:5px 11px;border-radius:6px;white-space:nowrap;
+  border:1px solid var(--border2);background:var(--surface);color:var(--muted);transition:.15s;
+}
+.ap:hover{border-color:#c9c2b5;color:var(--text2);background:var(--surface2)}
+.ap:active{transform:translateY(1px)}
+.ap.on{background:#f0ebfa;border-color:#dcd1f0;color:#5b4390}
+.ap.on:hover{background:#e9e1f7;border-color:#cfc1ea;color:#4d3780}
+.card.is-applied{background:#fbfaf6;border-color:#e6e2d8}
+.card.is-applied .tt{color:#7d7568}
+.card.is-applied .go{opacity:.85}
+.stat.done b{color:#5b4390}
+.clearap{
+  font-family:inherit;font-size:12px;color:var(--muted);background:none;border:none;
+  cursor:pointer;padding:2px 0;text-decoration:underline;text-underline-offset:3px;text-decoration-color:#d6d0c4;
+}
+.clearap:hover{color:#a5442c;text-decoration-color:#a5442c}
 .empty{text-align:center;color:var(--muted);padding:60px 10px;font-size:14px;line-height:2}
 
 /* ---------- footer ---------- */
@@ -153,6 +176,8 @@ footer .stamp{margin-top:10px;color:#a49d92}
   .sal{font-size:16px}
   .filters{padding:10px 0}
   .card{padding:15px}
+  .acts{width:100%;justify-content:flex-end}
+  .ap,.go{padding:6px 11px}
   .vizbody{padding:4px 14px 16px}
   .bar .bl{flex:0 0 74px}
 }
@@ -185,7 +210,10 @@ footer .stamp{margin-top:10px;color:#a49d92}
 
 <div class="resultbar">
   <span id="count"></span>
-  <span id="sortdesc"></span>
+  <span class="rside">
+    <span id="sortdesc"></span>
+    <button class="clearap" id="clearAp" style="display:none">清空已投递标记</button>
+  </span>
 </div>
 
 <div class="list" id="list"></div>
@@ -202,6 +230,7 @@ footer .stamp{margin-top:10px;color:#a49d92}
     <a href="https://www.zhipin.com/web/geek/job?query=%E4%B8%B4%E5%BA%8A%E6%94%AF%E6%8C%81" target="_blank" rel="noopener">临床支持</a> ·
     <a href="https://www.zhipin.com/web/geek/job?query=%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86" target="_blank" rel="noopener">医疗器械产品经理</a>。
     找到合适的，把链接发来，手工核验后一样可以进站。</p>
+  <p><b>已投递标记</b>：每张卡右下角有「标记已投递」，点一下这张卡会变灰、按钮变成 ✓，再点一次取消。标记只存在你自己浏览器的 localStorage 里，不上传、不联网、换设备看不到，清缓存或在无痕窗口打开会丢。筛选项里的「只看未投递 / 只看已投递」就是按这个标记过滤的——投过一轮之后切到「只看未投递」，就不会再翻到已经投过的。岗位 id 是按原始链接算的，本站每天重建数据也不会让标记错位；岗位下线后标记还留着，万一重新上架仍然认得出。</p>
   <p><b>大厂判定</b>：按公司名匹配白名单（外资器械 / 国产头部 / 头部药企 / 头部 CRO / 头部诊断），只做分类标记，不代表对雇主的推荐或背书。</p>
   <p class="stamp" id="stamp"></p>
 </footer>
@@ -214,6 +243,29 @@ const GROUPS = ["产品与注册", "临床支持", "销售", "运营", "临床�
 const CHANNELS = ["招聘平台", "公司官网", "高校就业网", "猎头中介", "其他渠道"];
 const TIER_RANK = {"外企器械":0,"国产头部":1,"头部药企":2,"头部CRO":3,"头部诊断":4};
 
+/* ---------- 已投递标记 ----------
+   存在浏览器 localStorage 里，不上传任何服务器。换浏览器/清缓存/无痕模式会丢。
+   key 用岗位 id（智联是 zn:CC…，外部源是 ext:md5），每日重建数据也不会变。 */
+const AP_KEY = "medjobs_applied_v1";
+let APPLIED = {};
+try{
+  const raw = localStorage.getItem(AP_KEY);
+  if(raw){
+    const o = JSON.parse(raw);
+    if(o && typeof o === "object" && !Array.isArray(o)) APPLIED = o;
+  }
+}catch(e){ APPLIED = {}; }
+
+function saveApplied(){
+  try{ localStorage.setItem(AP_KEY, JSON.stringify(APPLIED)); }catch(e){}
+}
+function todayStr(){
+  const d = new Date(), p = n => String(n).padStart(2,"0");
+  return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}`;
+}
+/* 只数当前页面上还在的岗位，下线的岗位不占这个数 */
+function apCount(){ return JOBS.filter(j=>APPLIED[j.id]).length; }
+
 let state = {section:"all", group:"", channel:"", site:"", quick:"", quad:"", sort:"rec"};
 
 /* ---------- header ---------- */
@@ -225,7 +277,8 @@ document.getElementById("stats").innerHTML = [
   {b:STATS.campus,s:"校招/应届",c:""},
   {b:STATS.intern,s:"实习",c:""},
   {b:STATS.new_today,s:"今日新增",c:""}
-].map(x=>`<div class="stat ${x.c}"><b>${x.b}</b><span>${x.s}</span></div>`).join("");
+].map(x=>`<div class="stat ${x.c}"><b>${x.b}</b><span>${x.s}</span></div>`).join("") +
+`<div class="stat done" id="statAp" title="点卡片上的「标记已投递」记在这里，只存在你这台设备的浏览器里"><b>0</b><span>已投递</span></div>`;
 
 /* ---------- 分类/象限 ---------- */
 function quadOf(j){
@@ -274,7 +327,8 @@ const SITES = Object.keys(CNT.site).sort((a,b)=>CNT.site[b]-CNT.site[a]);
 chips("rowSite", [["","全部"],...SITES.map(s=>[s, s==="公司官网"?"公司官网直招":s, CNT.site[s]])],"site");
 chips("rowQuick", [["","不限"],["fit","匹配我的简历",CNT.quick.fit],["big","只看大厂",CNT.quick.big],
                    ["new","今日新增",CNT.quick.new],["hr","HR 7天内上线",CNT.quick.hr],
-                   ["high","月薪≥10K",CNT.quick.high]],"quick");
+                   ["high","月薪≥10K",CNT.quick.high],["todo","只看未投递",0],
+                   ["done","只看已投递",0]],"quick");
 chips("rowQuad", [["","全部"],["稳稳高薪","稳稳高薪",CNT.quad["稳稳高薪"]],
                   ["稳稳幸福","稳稳幸福",CNT.quad["稳稳幸福"]],
                   ["搏一把","搏一把",CNT.quad["搏一把"]],
@@ -320,6 +374,69 @@ document.addEventListener("click", e=>{
   b.classList.add(v==="big" ? "gold-on" : "on");
   render();
 });
+
+/* 已投递：改内存 → 直接改这张卡的 DOM（不整页重渲染，保住滚动位置和已展开的 JD）→ 落盘 */
+document.addEventListener("click", e=>{
+  const b = e.target.closest("[data-ap]");
+  if(!b) return;
+  e.preventDefault();
+  e.stopPropagation();
+  const id = b.dataset.ap;
+  if(APPLIED[id]) delete APPLIED[id]; else APPLIED[id] = todayStr();
+  saveApplied();
+  syncApplied(id);
+  refreshAp();
+});
+
+document.addEventListener("click", e=>{
+  if(!e.target.closest("#clearAp")) return;
+  if(!confirm("把所有「已投递」标记清掉？这个只存在本机浏览器里，清了找不回来。")) return;
+  APPLIED = {};
+  saveApplied();
+  render();
+  refreshAp();
+});
+
+function syncApplied(id){
+  const on = !!APPLIED[id];
+  document.querySelectorAll("article.card").forEach(c=>{
+    if(c.dataset.id !== id) return;
+    c.classList.toggle("is-applied", on);
+    const btn = c.querySelector("[data-ap]");
+    if(btn){
+      btn.classList.toggle("on", on);
+      btn.textContent = on ? "✓ 已投递" : "标记已投递";
+      btn.setAttribute("aria-pressed", on ? "true" : "false");
+      btn.title = on ? `${APPLIED[id]} 标记为已投递，再点一次取消` : "投过就点一下，下次翻到这页能认出来";
+    }
+    const tags = c.querySelector(".tags");
+    if(tags){
+      const old = tags.querySelector(".t-ap");
+      if(old) old.remove();
+      if(on){
+        const s = document.createElement("span");
+        s.className = "tag t-ap";
+        s.title = "你在这天点过「标记已投递」，只存在本机浏览器";
+        s.textContent = "已投 " + APPLIED[id].slice(5);
+        tags.appendChild(s);
+      }
+    }
+  });
+}
+
+function refreshAp(){
+  const n = apCount();
+  const el = document.querySelector("#statAp b");
+  if(el) el.textContent = n;
+  const setN = (v, num)=>{
+    const c = document.querySelector(`[data-k="quick"][data-v="${v}"] .n`);
+    if(c) c.textContent = num;
+  };
+  setN("done", n);
+  setN("todo", JOBS.length - n);
+  const clr = document.getElementById("clearAp");
+  if(clr) clr.style.display = n ? "inline" : "none";
+}
 
 function esc(s){return (s==null?"":String(s)).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
 function cmp(a,b){return a<b?-1:a>b?1:0}
@@ -369,6 +486,8 @@ function render(){
     if(state.quick==="big" && !j.is_big) return false;
     if(state.quick==="hr" && !(j.hr_active_days!=null && j.hr_active_days<=7)) return false;
     if(state.quick==="high" && (j.salary_min===null||j.salary_min<10000)) return false;
+    if(state.quick==="todo" && APPLIED[j.id]) return false;
+    if(state.quick==="done" && !APPLIED[j.id]) return false;
     return true;
   });
   rows.sort(sorter());
@@ -376,12 +495,13 @@ function render(){
   document.getElementById("sortdesc").textContent = SORTDESC[state.sort];
 
   if(!rows.length){
-    document.getElementById("list").innerHTML =
-      `<div class="empty">这个组合下暂时没有岗位。<br>试试上方的“不限”或换个象限。</div>`;
+    document.getElementById("list").innerHTML = state.quick==="done"
+      ? `<div class="empty">还没有标记过“已投递”的岗位。<br>点卡片右下角的「标记已投递」，下次翻到这页就认得出哪些投过了。</div>`
+      : `<div class="empty">这个组合下暂时没有岗位。<br>试试上方的“不限”或换个象限。</div>`;
     return;
   }
   document.getElementById("list").innerHTML = rows.map(j=>`
-    <article class="card ${j.first_seen===STATS.iso?"isnew":""}">
+    <article class="card ${j.first_seen===STATS.iso?"isnew":""} ${APPLIED[j.id]?"is-applied":""}" data-id="${esc(j.id)}">
       <div class="top">
         <div>
           <div class="co">
@@ -417,8 +537,16 @@ function render(){
           ${j.hr_active_days!=null && j.hr_active_days>7
             ? `<span class="tag t-hr" title="招聘方最近一次登录距今 ${j.hr_active_days} 天，投递可能没人处理">HR ${Math.round(j.hr_active_days)} 天没上线</span>`
             : ""}
+          ${APPLIED[j.id]
+            ? `<span class="tag t-ap" title="你在这天点过「标记已投递」，只存在本机浏览器">已投 ${esc(APPLIED[j.id].slice(5))}</span>`
+            : ""}
         </div>
-        <a class="go" href="${esc(j.url)}" target="_blank" rel="noopener nofollow">查看原岗位 →</a>
+        <div class="acts">
+          <button class="ap ${APPLIED[j.id]?"on":""}" data-ap="${esc(j.id)}"
+                  title="${APPLIED[j.id]?`${esc(APPLIED[j.id])} 标记为已投递，再点一次取消`:"投过就点一下，下次翻到这页能认出来"}"
+                  aria-pressed="${APPLIED[j.id]?"true":"false"}">${APPLIED[j.id]?"✓ 已投递":"标记已投递"}</button>
+          <a class="go" href="${esc(j.url)}" target="_blank" rel="noopener nofollow">查看原岗位 →</a>
+        </div>
       </div>
     </article>`).join("");
 }
@@ -427,6 +555,7 @@ document.getElementById("stamp").innerHTML =
   `更新于 ${STATS.date} ｜ ${STATS.total} 条在招 / ${STATS.big} 条大厂 / ${STATS.closed_total} 条已累计下线 / 来源 ${STATS.sources} 个`;
 
 drawViz();
+refreshAp();
 render();
 </script>
 </body>
