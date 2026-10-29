@@ -328,7 +328,7 @@ chips("rowSection", [["all","全部"],["campus","校招应届",CNT.section.campu
                      ["fulltime","全职",CNT.section.fulltime],["intern","实习",CNT.section.intern]],"section");
 chips("rowGroup", [["","全部"],...GROUPS.filter(g=>CNT.group[g]).map(g=>[g,g,CNT.group[g]])],"group");
 /* 赛道：这条岗在哪个行业，和「方向」正交——做临床支持，可以在器械、医美、AI 任一赛道 */
-chips("rowSegment", [["","全部"],...SEGMENTS.filter(g=>CNT.segment[g]).map(g=>[g,g,CNT.segment[g]])],"segment");
+chips("rowSegment", [["","全部"],...SEGMENTS.map(g=>[g, g, CNT.segment[g]||0])],"segment");
 /* 来源：粗分渠道。公司官网单列，它是雇主自己挂的，和第三方平台不是一回事 */
 chips("rowChannel", [["","全部"],
                      ...CHANNELS.filter(c=>CNT.channel[c]).map(c=>[c, c==="公司官网"?"公司官网直招":c, CNT.channel[c]])
