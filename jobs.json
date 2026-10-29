@@ -45,7 +45,9 @@
   "hr_active_days": 0.7,
   "salary_display": "2-2.5万",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1207284370J40225400704",
@@ -93,7 +95,9 @@
   "hr_active_days": 0.9,
   "salary_display": "1.2-2.2万·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC818518790J40798580706",
@@ -141,7 +145,9 @@
   "hr_active_days": 0.1,
   "salary_display": "1.2-1.8万",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1342438610J40802363706",
@@ -194,7 +200,9 @@
   "hr_active_days": 0.0,
   "salary_display": "1.2-1.8万",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC181097920J40900679809",
@@ -242,7 +250,9 @@
   "hr_active_days": 0.0,
   "salary_display": "1.1-2.2万",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:d7909cc0269b",
@@ -304,7 +314,9 @@
   "hr_active_days": 0.0,
   "salary_display": "11K~20K·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC434088880J40961411308",
@@ -352,7 +364,9 @@
   "hr_active_days": 0.0,
   "salary_display": "1.1-1.9万·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:1b392bf9993c",
@@ -415,7 +429,9 @@
   "hr_active_days": 0.0,
   "salary_display": "11K~15K·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:b7c3a1043533",
@@ -478,7 +494,9 @@
   "hr_active_days": null,
   "salary_display": "10K~25K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC258005010J40859718905",
@@ -528,7 +546,9 @@
   "hr_active_days": 0.1,
   "salary_display": "1-2万",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC191927910J40876764607",
@@ -579,7 +599,9 @@
   "hr_active_days": 0.8,
   "salary_display": "1-2万",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1342438610J40800058006",
@@ -628,7 +650,9 @@
   "hr_active_days": 0.0,
   "salary_display": "1-2万·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:8338d1bf59c6",
@@ -690,7 +714,9 @@
   "hr_active_days": 0.0,
   "salary_display": "10K~20K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:a8a575432579",
@@ -753,7 +779,9 @@
   "hr_active_days": 0.0,
   "salary_display": "10K~20K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:4da415af89fb",
@@ -817,7 +845,9 @@
   "hr_active_days": 0.0,
   "salary_display": "10K~20K·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC429308980J40907125312",
@@ -865,7 +895,9 @@
   "hr_active_days": 0.0,
   "salary_display": "1-1.8万",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:e12b3122c7f1",
@@ -928,7 +960,9 @@
   "hr_active_days": null,
   "salary_display": "10K~18K·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:12eb80e326d0",
@@ -992,7 +1026,9 @@
   "hr_active_days": 0.0,
   "salary_display": "10K~18K·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC365364320J41028623404",
@@ -1040,7 +1076,9 @@
   "hr_active_days": 0.0,
   "salary_display": "1-1.5万",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1342438610J40802430006",
@@ -1088,7 +1126,9 @@
   "hr_active_days": 0.0,
   "salary_display": "1-1.5万",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1516637840J40914165213",
@@ -1136,7 +1176,9 @@
   "hr_active_days": 9.8,
   "salary_display": "1-1.5万",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:f01e4bfcea76",
@@ -1198,7 +1240,9 @@
   "hr_active_days": 0.0,
   "salary_display": "10K~15K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:79021ae1cec2",
@@ -1261,7 +1305,9 @@
   "hr_active_days": null,
   "salary_display": "10K~15K·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:c33ae8732254",
@@ -1323,7 +1369,9 @@
   "hr_active_days": 0.0,
   "salary_display": "9K~17K·14薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC686663280J40883324007",
@@ -1371,7 +1419,9 @@
   "hr_active_days": 0.1,
   "salary_display": "9000-11000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC811184130J40400764316",
@@ -1419,7 +1469,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-16000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC487928680J40957959108",
@@ -1467,7 +1519,9 @@
   "hr_active_days": 4.5,
   "salary_display": "8000-16000元",
   "assist": true,
-  "small": true
+  "small": true,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC843428170J41040086704",
@@ -1515,7 +1569,9 @@
   "hr_active_days": 1.9,
   "salary_display": "8000-15000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC244959110J40749916215",
@@ -1563,7 +1619,9 @@
   "hr_active_days": 0.1,
   "salary_display": "8000-15000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC429308980J40876993412",
@@ -1611,7 +1669,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-15000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC429308980J40918635612",
@@ -1659,7 +1719,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-15000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC131937030J40858269201",
@@ -1707,7 +1769,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-15000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC297171830J40926636903",
@@ -1755,7 +1819,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-15000元·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:bb80b229bc6a",
@@ -1816,7 +1882,9 @@
   "hr_active_days": null,
   "salary_display": "8K~15K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:6b66b970448c",
@@ -1879,7 +1947,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8K~15K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1342438610J40807594506",
@@ -1940,7 +2010,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-13000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC273511830J40842186007",
@@ -1992,7 +2064,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-13000元·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC334056080J40968962408",
@@ -2040,7 +2114,9 @@
   "hr_active_days": 0.6,
   "salary_display": "8000-12000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC341437180J40910556513",
@@ -2088,7 +2164,9 @@
   "hr_active_days": 1.0,
   "salary_display": "8000-12000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC199177610J40682974309",
@@ -2136,7 +2214,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-12000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC252084130J41040419804",
@@ -2184,7 +2264,9 @@
   "hr_active_days": 5.8,
   "salary_display": "8000-12000元",
   "assist": true,
-  "small": true
+  "small": true,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:83e74aa44295",
@@ -2247,7 +2329,9 @@
   "hr_active_days": 1.0,
   "salary_display": "8K~12K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:ebe9146612a8",
@@ -2309,7 +2393,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8K~12K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:75665b3561a4",
@@ -2371,7 +2457,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8K~12K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:7c395a05c651",
@@ -2436,7 +2524,9 @@
   "hr_active_days": null,
   "salary_display": "8K~12K·17薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:6860b2ab0e0e",
@@ -2501,7 +2591,9 @@
   "hr_active_days": null,
   "salary_display": "8K~12K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1342438610J40808292206",
@@ -2549,7 +2641,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC646500180J41042390804",
@@ -2600,7 +2694,9 @@
   "hr_active_days": 0.1,
   "salary_display": "8000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC137953310J40886267401",
@@ -2648,7 +2744,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC120989510J40911150113",
@@ -2696,7 +2794,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1207284370J41035671204",
@@ -2744,7 +2844,9 @@
   "hr_active_days": 14.7,
   "salary_display": "8000-10000元·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1476314500J40894240910",
@@ -2792,7 +2894,9 @@
   "hr_active_days": 2.1,
   "salary_display": "8000-10000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（中医）"
  },
  {
   "id": "ext:ba754f09315f",
@@ -2854,7 +2958,9 @@
   "hr_active_days": null,
   "salary_display": "8K~10K·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:da7e35a1dd3c",
@@ -2917,7 +3023,9 @@
   "hr_active_days": 0.0,
   "salary_display": "8K~9K·14薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC147926170J40808439106",
@@ -2965,7 +3073,9 @@
   "hr_active_days": 0.1,
   "salary_display": "7000-14000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC245090110J41045947302",
@@ -3013,7 +3123,9 @@
   "hr_active_days": 0.0,
   "salary_display": "7000-14000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC245090110J41045942802",
@@ -3061,7 +3173,9 @@
   "hr_active_days": 0.0,
   "salary_display": "7000-14000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1254783430J40973300515",
@@ -3109,7 +3223,9 @@
   "hr_active_days": 0.0,
   "salary_display": "7000-13000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:7871b15abf68",
@@ -3172,7 +3288,9 @@
   "hr_active_days": 0.0,
   "salary_display": "7K~13K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC142975360J40975487715",
@@ -3220,7 +3338,9 @@
   "hr_active_days": 0.0,
   "salary_display": "7000-12000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC174594720J40995994002",
@@ -3268,7 +3388,9 @@
   "hr_active_days": 0.0,
   "salary_display": "7000-12000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC181097920J40901236409",
@@ -3316,7 +3438,9 @@
   "hr_active_days": 0.1,
   "salary_display": "7000-12000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC489467520J40869210711",
@@ -3364,7 +3488,9 @@
   "hr_active_days": 0.1,
   "salary_display": "7000-12000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:0f7639b9d404",
@@ -3427,7 +3553,9 @@
   "hr_active_days": 0.0,
   "salary_display": "7K~12K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1342438610J40804031206",
@@ -3476,7 +3604,9 @@
   "hr_active_days": 0.0,
   "salary_display": "7000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC181097920J40834424809",
@@ -3524,7 +3654,9 @@
   "hr_active_days": 0.7,
   "salary_display": "7000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:4278e06244d9",
@@ -3589,7 +3721,9 @@
   "hr_active_days": 0.0,
   "salary_display": "7K~10K·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:89e27419aa3e",
@@ -3653,7 +3787,9 @@
   "hr_active_days": null,
   "salary_display": "7K~10K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC120989510J40912625013",
@@ -3704,7 +3840,9 @@
   "hr_active_days": 0.7,
   "salary_display": "7000-9000元·14薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC120989510J40900049213",
@@ -3752,7 +3890,9 @@
   "hr_active_days": 0.7,
   "salary_display": "7000-9000元·14薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:85fed760c143",
@@ -3816,7 +3956,9 @@
   "hr_active_days": null,
   "salary_display": "7K~9K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1379652940J40969749804",
@@ -3864,7 +4006,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6000-12000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC455423830J40975393315",
@@ -3912,7 +4056,9 @@
   "hr_active_days": 1.0,
   "salary_display": "6000-12000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC425721620J40532143909",
@@ -3960,7 +4106,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6000-12000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（临床）"
  },
  {
   "id": "ext:ec589a21fec0",
@@ -4023,7 +4171,9 @@
   "hr_active_days": null,
   "salary_display": "6K~12K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC811184130J40793632316",
@@ -4071,7 +4221,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6000-11000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC120030850J40684278814",
@@ -4122,7 +4274,9 @@
   "hr_active_days": 0.1,
   "salary_display": "6000-11000元·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC243823910J40972548915",
@@ -4170,7 +4324,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC449104480J40800958616",
@@ -4218,7 +4374,9 @@
   "hr_active_days": 0.1,
   "salary_display": "6000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC655087220J40976080315",
@@ -4266,7 +4424,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC245090110J41036585802",
@@ -4314,7 +4474,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1480957180J40778249513",
@@ -4362,7 +4524,9 @@
   "hr_active_days": 2.1,
   "salary_display": "6000-10000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（中医）"
  },
  {
   "id": "zn:CC145557230J40888424505",
@@ -4410,7 +4574,9 @@
   "hr_active_days": 1.9,
   "salary_display": "6000-10000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（中医）"
  },
  {
   "id": "ext:f0f4e0f4da1e",
@@ -4473,7 +4639,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6K~10K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:b29b92b32c69",
@@ -4535,7 +4703,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6K~10K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:7a3b0bae3588",
@@ -4598,7 +4768,9 @@
   "hr_active_days": null,
   "salary_display": "6K~10K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC334056080J40970078308",
@@ -4647,7 +4819,9 @@
   "hr_active_days": 0.6,
   "salary_display": "6000-9000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1281563630J40863852511",
@@ -4699,7 +4873,9 @@
   "hr_active_days": 13.8,
   "salary_display": "6000-9000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC245090110J41037990702",
@@ -4747,7 +4923,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6000-9000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC121084390J40942373412",
@@ -4795,7 +4973,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC164348410J40862222412",
@@ -4843,7 +5023,9 @@
   "hr_active_days": 9.8,
   "salary_display": "6000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC245090110J40910503702",
@@ -4891,7 +5073,9 @@
   "hr_active_days": 1.6,
   "salary_display": "6000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC245090110J40845058702",
@@ -4939,7 +5123,9 @@
   "hr_active_days": 0.7,
   "salary_display": "6000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC287860130J41038035304",
@@ -4987,7 +5173,9 @@
   "hr_active_days": 14.7,
   "salary_display": "6000-8000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（口腔）"
  },
  {
   "id": "zn:CC307810130J41000737702",
@@ -5035,7 +5223,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6000-8000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（临床）"
  },
  {
   "id": "zn:CCL1528701070J40910826313",
@@ -5083,7 +5273,9 @@
   "hr_active_days": 16.8,
   "salary_display": "6000-8000元",
   "assist": true,
-  "small": true
+  "small": true,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（临床）"
  },
  {
   "id": "ext:3c6ee7753362",
@@ -5145,7 +5337,9 @@
   "hr_active_days": 0.0,
   "salary_display": "6K~8K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:fbde4ffc8c99",
@@ -5207,7 +5401,9 @@
   "hr_active_days": null,
   "salary_display": "6K~8K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:f4b4c738be43",
@@ -5268,7 +5464,9 @@
   "hr_active_days": null,
   "salary_display": "6K~8K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:5c174401553f",
@@ -5331,7 +5529,9 @@
   "hr_active_days": null,
   "salary_display": "6K~8K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:5bc588ed371a",
@@ -5394,7 +5594,9 @@
   "hr_active_days": null,
   "salary_display": "6K~8K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC120051470J40929858703",
@@ -5442,7 +5644,9 @@
   "hr_active_days": 0.7,
   "salary_display": "6000-7000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC164348410J40944496912",
@@ -5490,7 +5694,9 @@
   "hr_active_days": 9.8,
   "salary_display": "5000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC174594720J40484722502",
@@ -5538,7 +5744,9 @@
   "hr_active_days": 1.1,
   "salary_display": "5000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC264289910J40874898301",
@@ -5586,7 +5794,9 @@
   "hr_active_days": 0.1,
   "salary_display": "5000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC227621910J40698784305",
@@ -5634,7 +5844,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC429308980J40929061212",
@@ -5683,7 +5895,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC542159120J40976493315",
@@ -5731,7 +5945,9 @@
   "hr_active_days": 0.1,
   "salary_display": "5000-10000元·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC000616790J40970372008",
@@ -5780,7 +5996,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1342438610J40807708106",
@@ -5829,7 +6047,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC181097920J40899702609",
@@ -5880,7 +6100,9 @@
   "hr_active_days": 0.1,
   "salary_display": "5000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC149826510J41045643902",
@@ -5928,7 +6150,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5000-10000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:e5ab5c212368",
@@ -5998,7 +6222,9 @@
   "hr_active_days": null,
   "salary_display": "5K~10K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:e91cef65c2d9",
@@ -6062,7 +6288,9 @@
   "hr_active_days": null,
   "salary_display": "5K~10K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:18662df52d50",
@@ -6124,7 +6352,9 @@
   "hr_active_days": null,
   "salary_display": "5K~10K·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:2ca5ef093def",
@@ -6186,7 +6416,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5K~10K·14薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:69f2c029043e",
@@ -6254,7 +6486,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5K~10K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC429308980J40906539712",
@@ -6302,7 +6536,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC466375480J40799195907",
@@ -6350,7 +6586,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1465558090J40655958306",
@@ -6398,7 +6636,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5000-8000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（口腔）"
  },
  {
   "id": "zn:CCL1498581390J40907001905",
@@ -6446,7 +6686,9 @@
   "hr_active_days": 1.8,
   "salary_display": "5000-8000元",
   "assist": true,
-  "small": true
+  "small": true,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（临床）"
  },
  {
   "id": "zn:CCL1521057740J40873147901",
@@ -6494,7 +6736,9 @@
   "hr_active_days": 1.8,
   "salary_display": "5000-8000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（中医）"
  },
  {
   "id": "ext:b3b9294c8537",
@@ -6556,7 +6800,9 @@
   "hr_active_days": null,
   "salary_display": "5K~8K",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC482006380J40807054006",
@@ -6604,7 +6850,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5000-7000元·13薪",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC374524710J40891214312",
@@ -6652,7 +6900,9 @@
   "hr_active_days": 0.0,
   "salary_display": "5000-7000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1452130190J40529999402",
@@ -6700,7 +6950,9 @@
   "hr_active_days": 0.7,
   "salary_display": "5000-7000元",
   "assist": true,
-  "small": true
+  "small": true,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1348119090J40881908807",
@@ -6748,7 +7000,9 @@
   "hr_active_days": 1.8,
   "salary_display": "5000-7000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC245090110J41033131202",
@@ -6796,7 +7050,9 @@
   "hr_active_days": 14.7,
   "salary_display": "5000-6000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC357164520J40915133212",
@@ -6844,7 +7100,9 @@
   "hr_active_days": 0.1,
   "salary_display": "5000-6000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（临床）"
  },
  {
   "id": "zn:CCL1348119090J40881566207",
@@ -6892,7 +7150,9 @@
   "hr_active_days": 1.8,
   "salary_display": "5000-6000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC426985410J40127950909",
@@ -6940,7 +7200,9 @@
   "hr_active_days": 9.1,
   "salary_display": "4000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC227621910J40734424205",
@@ -6988,7 +7250,9 @@
   "hr_active_days": 0.0,
   "salary_display": "4000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC601993130J40901444509",
@@ -7037,7 +7301,9 @@
   "hr_active_days": 0.8,
   "salary_display": "4000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC203345920J40820046801",
@@ -7086,7 +7352,9 @@
   "hr_active_days": 0.0,
   "salary_display": "4000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC224773320J40304657805",
@@ -7135,7 +7403,9 @@
   "hr_active_days": 0.0,
   "salary_display": "4000-8000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC451623710J40833040507",
@@ -7183,7 +7453,9 @@
   "hr_active_days": 4.8,
   "salary_display": "4000-8000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC572795520J40880126111",
@@ -7231,7 +7503,9 @@
   "hr_active_days": 5.8,
   "salary_display": "4000-8000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1469189510J40858821205",
@@ -7279,7 +7553,9 @@
   "hr_active_days": 1.0,
   "salary_display": "4000-8000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1413062170J40805285906",
@@ -7327,7 +7603,9 @@
   "hr_active_days": 0.0,
   "salary_display": "4000-7000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC303430180J40807378206",
@@ -7375,7 +7653,9 @@
   "hr_active_days": 0.7,
   "salary_display": "4000-6000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1485057220J40863533701",
@@ -7423,7 +7703,9 @@
   "hr_active_days": 0.2,
   "salary_display": "4000-6000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC530216030J40968421808",
@@ -7471,7 +7753,9 @@
   "hr_active_days": 13.1,
   "salary_display": "4000-6000元",
   "assist": true,
-  "small": true
+  "small": true,
+  "need_lic": true,
+  "lic_name": "助理医师执业证（临床）"
  },
  {
   "id": "zn:CC245090110J40895696802",
@@ -7519,7 +7803,9 @@
   "hr_active_days": 0.7,
   "salary_display": "4000-5000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC245090110J40504866102",
@@ -7567,7 +7853,9 @@
   "hr_active_days": 0.7,
   "salary_display": "4000-5000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1485053610J40866796713",
@@ -7615,7 +7903,9 @@
   "hr_active_days": 1.5,
   "salary_display": "4000-5000元",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC528688980J40740337416",
@@ -7664,7 +7954,9 @@
   "hr_active_days": 1.1,
   "salary_display": "4000-5000元·13薪",
   "assist": true,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC120989510J40883626813",
@@ -7712,7 +8004,9 @@
   "hr_active_days": 0.0,
   "salary_display": "180-200元/天",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC120989510J40872938113",
@@ -7760,7 +8054,9 @@
   "hr_active_days": 0.8,
   "salary_display": "150-220元/天",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC274258380J41038832102",
@@ -7808,7 +8104,9 @@
   "hr_active_days": 0.7,
   "salary_display": "150-200元/天",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1521488390J40853070616",
@@ -7856,7 +8154,9 @@
   "hr_active_days": 0.8,
   "salary_display": "150-180元/天",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC181097920J40899873309",
@@ -7904,7 +8204,9 @@
   "hr_active_days": 0.1,
   "salary_display": "3000-6000元",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC190164120J41032670604",
@@ -7952,7 +8254,9 @@
   "hr_active_days": 0.1,
   "salary_display": "130-150元/天",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC000518670J40808444406",
@@ -8000,7 +8304,9 @@
   "hr_active_days": 0.0,
   "salary_display": "120-200元/天",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC567846720J40807172906",
@@ -8051,7 +8357,9 @@
   "hr_active_days": 0.0,
   "salary_display": "120-200元/天",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CC130677670J40896302305",
@@ -8099,7 +8407,9 @@
   "hr_active_days": 1.7,
   "salary_display": "120-150元/天",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "zn:CCL1305152930J40852687416",
@@ -8147,7 +8457,9 @@
   "hr_active_days": 0.1,
   "salary_display": "90-100元/天",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:e23272313e13",
@@ -8210,7 +8522,9 @@
   "first_seen": "2026-10-25",
   "salary_display": "面议",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:0166e4a633e5",
@@ -8273,7 +8587,9 @@
   "hr_active_days": 0.7,
   "salary_display": "面议",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:8621ff6da4d6",
@@ -8335,7 +8651,9 @@
   "hr_active_days": 14.8,
   "salary_display": "面议",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:a1952ae3f1c7",
@@ -8398,7 +8716,9 @@
   "hr_active_days": null,
   "salary_display": "面议",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:12ec4e4535c1",
@@ -8461,7 +8781,9 @@
   "hr_active_days": null,
   "salary_display": "面议",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  },
  {
   "id": "ext:51e3f48e50cd",
@@ -8523,6 +8845,8 @@
   "hr_active_days": null,
   "salary_display": "面议",
   "assist": false,
-  "small": false
+  "small": false,
+  "need_lic": false,
+  "lic_name": ""
  }
 ]
