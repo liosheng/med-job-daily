@@ -43,7 +43,9 @@
   "posted_at": "2026-07-09",
   "age_days": 112,
   "hr_active_days": 0.7,
-  "salary_display": "2-2.5万"
+  "salary_display": "2-2.5万",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1207284370J40225400704",
@@ -89,7 +91,9 @@
   "posted_at": "2026-02-02",
   "age_days": 269,
   "hr_active_days": 0.9,
-  "salary_display": "1.2-2.2万·13薪"
+  "salary_display": "1.2-2.2万·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC818518790J40798580706",
@@ -135,7 +139,9 @@
   "posted_at": "2026-08-26",
   "age_days": 64,
   "hr_active_days": 0.1,
-  "salary_display": "1.2-1.8万"
+  "salary_display": "1.2-1.8万",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1342438610J40802363706",
@@ -186,7 +192,9 @@
   "posted_at": "2026-09-15",
   "age_days": 44,
   "hr_active_days": 0.0,
-  "salary_display": "1.2-1.8万"
+  "salary_display": "1.2-1.8万",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC181097920J40900679809",
@@ -232,7 +240,9 @@
   "posted_at": "2026-10-26",
   "age_days": 3,
   "hr_active_days": 0.0,
-  "salary_display": "1.1-2.2万"
+  "salary_display": "1.1-2.2万",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:d7909cc0269b",
@@ -292,7 +302,9 @@
   "posted_at": "2026-03-03",
   "age_days": 240,
   "hr_active_days": 0.0,
-  "salary_display": "11K~20K·13薪"
+  "salary_display": "11K~20K·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC434088880J40961411308",
@@ -338,7 +350,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.0,
-  "salary_display": "1.1-1.9万·13薪"
+  "salary_display": "1.1-1.9万·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:1b392bf9993c",
@@ -399,7 +413,9 @@
   "posted_at": "2026-10-15",
   "age_days": 14,
   "hr_active_days": 0.0,
-  "salary_display": "11K~15K·13薪"
+  "salary_display": "11K~15K·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:b7c3a1043533",
@@ -459,8 +475,10 @@
   "first_seen": "2026-10-25",
   "posted_at": "2026-06-04",
   "age_days": 147,
-  "hr_active_days": 0.0,
-  "salary_display": "10K~25K"
+  "hr_active_days": null,
+  "salary_display": "10K~25K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC258005010J40859718905",
@@ -508,7 +526,9 @@
   "posted_at": "2026-04-16",
   "age_days": 196,
   "hr_active_days": 0.1,
-  "salary_display": "1-2万"
+  "salary_display": "1-2万",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC191927910J40876764607",
@@ -556,8 +576,10 @@
   "first_seen": "2026-10-28",
   "posted_at": "2026-10-24",
   "age_days": 5,
-  "hr_active_days": 0.7,
-  "salary_display": "1-2万"
+  "hr_active_days": 0.8,
+  "salary_display": "1-2万",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1342438610J40800058006",
@@ -604,7 +626,9 @@
   "posted_at": "2026-10-27",
   "age_days": 2,
   "hr_active_days": 0.0,
-  "salary_display": "1-2万·13薪"
+  "salary_display": "1-2万·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:8338d1bf59c6",
@@ -663,8 +687,10 @@
   "first_seen": "2026-10-29",
   "posted_at": "2026-09-21",
   "age_days": 38,
-  "hr_active_days": null,
-  "salary_display": "10K~20K"
+  "hr_active_days": 0.0,
+  "salary_display": "10K~20K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:a8a575432579",
@@ -725,7 +751,9 @@
   "posted_at": "2026-09-30",
   "age_days": 29,
   "hr_active_days": 0.0,
-  "salary_display": "10K~20K"
+  "salary_display": "10K~20K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:4da415af89fb",
@@ -787,7 +815,9 @@
   "posted_at": "2026-06-16",
   "age_days": 135,
   "hr_active_days": 0.0,
-  "salary_display": "10K~20K·13薪"
+  "salary_display": "10K~20K·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC429308980J40907125312",
@@ -832,8 +862,10 @@
   "first_seen": "2026-10-25",
   "posted_at": "2026-05-27",
   "age_days": 155,
-  "hr_active_days": 3.1,
-  "salary_display": "1-1.8万"
+  "hr_active_days": 0.0,
+  "salary_display": "1-1.8万",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:e12b3122c7f1",
@@ -894,7 +926,9 @@
   "posted_at": "2026-10-16",
   "age_days": 13,
   "hr_active_days": null,
-  "salary_display": "10K~18K·13薪"
+  "salary_display": "10K~18K·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:12eb80e326d0",
@@ -956,7 +990,9 @@
   "posted_at": "2026-07-07",
   "age_days": 114,
   "hr_active_days": 0.0,
-  "salary_display": "10K~18K·13薪"
+  "salary_display": "10K~18K·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC365364320J41028623404",
@@ -1001,8 +1037,10 @@
   "first_seen": "2026-10-25",
   "posted_at": "2026-10-29",
   "age_days": 0,
-  "hr_active_days": 0.1,
-  "salary_display": "1-1.5万"
+  "hr_active_days": 0.0,
+  "salary_display": "1-1.5万",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1342438610J40802430006",
@@ -1048,7 +1086,9 @@
   "posted_at": "2026-09-15",
   "age_days": 44,
   "hr_active_days": 0.0,
-  "salary_display": "1-1.5万"
+  "salary_display": "1-1.5万",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1516637840J40914165213",
@@ -1094,7 +1134,9 @@
   "posted_at": "2026-10-12",
   "age_days": 17,
   "hr_active_days": 9.8,
-  "salary_display": "1-1.5万"
+  "salary_display": "1-1.5万",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:f01e4bfcea76",
@@ -1153,8 +1195,10 @@
   "first_seen": "2026-10-29",
   "posted_at": "2026-08-06",
   "age_days": 84,
-  "hr_active_days": null,
-  "salary_display": "10K~15K"
+  "hr_active_days": 0.0,
+  "salary_display": "10K~15K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:79021ae1cec2",
@@ -1215,7 +1259,9 @@
   "posted_at": "2025-10-31",
   "age_days": 363,
   "hr_active_days": null,
-  "salary_display": "10K~15K·13薪"
+  "salary_display": "10K~15K·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:c33ae8732254",
@@ -1275,7 +1321,9 @@
   "posted_at": "2026-02-05",
   "age_days": 266,
   "hr_active_days": 0.0,
-  "salary_display": "9K~17K·14薪"
+  "salary_display": "9K~17K·14薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC686663280J40883324007",
@@ -1321,7 +1369,9 @@
   "posted_at": "2026-10-13",
   "age_days": 16,
   "hr_active_days": 0.1,
-  "salary_display": "9000-11000元"
+  "salary_display": "9000-11000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC811184130J40400764316",
@@ -1367,7 +1417,57 @@
   "posted_at": "2026-03-30",
   "age_days": 213,
   "hr_active_days": 0.0,
-  "salary_display": "8000-16000元"
+  "salary_display": "8000-16000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CC487928680J40957959108",
+  "company": "上海中奕医疗科技发展有限公司",
+  "title": "口腔医师助理",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "8000-16000元",
+  "salary_min": 8000,
+  "salary_max": 16000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "器械与诊断",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "20-99人",
+  "emp": 20,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CC487928680J40957959108.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-23",
+  "age_days": 6,
+  "hr_active_days": 4.5,
+  "salary_display": "8000-16000元",
+  "assist": true,
+  "small": true
  },
  {
   "id": "zn:CC843428170J41040086704",
@@ -1413,7 +1513,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 1.9,
-  "salary_display": "8000-15000元"
+  "salary_display": "8000-15000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC244959110J40749916215",
@@ -1458,8 +1560,10 @@
   "first_seen": "2026-10-25",
   "posted_at": "2026-10-29",
   "age_days": 0,
-  "hr_active_days": 0.0,
-  "salary_display": "8000-15000元"
+  "hr_active_days": 0.1,
+  "salary_display": "8000-15000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC429308980J40876993412",
@@ -1504,8 +1608,10 @@
   "first_seen": "2026-10-25",
   "posted_at": "2026-02-24",
   "age_days": 247,
-  "hr_active_days": 3.1,
-  "salary_display": "8000-15000元"
+  "hr_active_days": 0.0,
+  "salary_display": "8000-15000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC429308980J40918635612",
@@ -1550,8 +1656,10 @@
   "first_seen": "2026-10-25",
   "posted_at": "2026-08-18",
   "age_days": 72,
-  "hr_active_days": 3.1,
-  "salary_display": "8000-15000元"
+  "hr_active_days": 0.0,
+  "salary_display": "8000-15000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC131937030J40858269201",
@@ -1597,7 +1705,9 @@
   "posted_at": "2026-06-17",
   "age_days": 134,
   "hr_active_days": 0.0,
-  "salary_display": "8000-15000元"
+  "salary_display": "8000-15000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC297171830J40926636903",
@@ -1643,7 +1753,9 @@
   "posted_at": "2026-10-08",
   "age_days": 21,
   "hr_active_days": 0.0,
-  "salary_display": "8000-15000元·13薪"
+  "salary_display": "8000-15000元·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:bb80b229bc6a",
@@ -1702,7 +1814,9 @@
   "posted_at": "2026-06-04",
   "age_days": 147,
   "hr_active_days": null,
-  "salary_display": "8K~15K"
+  "salary_display": "8K~15K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:6b66b970448c",
@@ -1763,7 +1877,9 @@
   "posted_at": "2026-01-16",
   "age_days": 286,
   "hr_active_days": 0.0,
-  "salary_display": "8K~15K"
+  "salary_display": "8K~15K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1342438610J40807594506",
@@ -1822,7 +1938,9 @@
   "posted_at": "2026-10-22",
   "age_days": 7,
   "hr_active_days": 0.0,
-  "salary_display": "8000-13000元"
+  "salary_display": "8000-13000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC273511830J40842186007",
@@ -1872,7 +1990,9 @@
   "posted_at": "2026-10-20",
   "age_days": 9,
   "hr_active_days": 0.0,
-  "salary_display": "8000-13000元·13薪"
+  "salary_display": "8000-13000元·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC334056080J40968962408",
@@ -1918,7 +2038,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.6,
-  "salary_display": "8000-12000元"
+  "salary_display": "8000-12000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC341437180J40910556513",
@@ -1964,7 +2086,9 @@
   "posted_at": "2026-10-13",
   "age_days": 16,
   "hr_active_days": 1.0,
-  "salary_display": "8000-12000元"
+  "salary_display": "8000-12000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC199177610J40682974309",
@@ -2010,7 +2134,57 @@
   "posted_at": "2026-09-30",
   "age_days": 29,
   "hr_active_days": 0.0,
-  "salary_display": "8000-12000元"
+  "salary_display": "8000-12000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CC252084130J41040419804",
+  "company": "君岳医药科技(上海)有限公司",
+  "title": "科室助理/行政/医生助理",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "8000-12000元",
+  "salary_min": 8000,
+  "salary_max": 12000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "药企与生物",
+  "edu": "大专",
+  "exp": "经验不限",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "20-99人",
+  "emp": 20,
+  "reason": "医疗行业相关岗位；大专起投、经验不限",
+  "url": "https://jobs.zhaopin.com/CC252084130J41040419804.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-21",
+  "age_days": 8,
+  "hr_active_days": 5.8,
+  "salary_display": "8000-12000元",
+  "assist": true,
+  "small": true
  },
  {
   "id": "ext:83e74aa44295",
@@ -2071,7 +2245,9 @@
   "posted_at": "2026-08-07",
   "age_days": 83,
   "hr_active_days": 1.0,
-  "salary_display": "8K~12K"
+  "salary_display": "8K~12K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:ebe9146612a8",
@@ -2131,7 +2307,9 @@
   "posted_at": "2026-10-13",
   "age_days": 16,
   "hr_active_days": 0.0,
-  "salary_display": "8K~12K"
+  "salary_display": "8K~12K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:75665b3561a4",
@@ -2191,7 +2369,9 @@
   "posted_at": "2026-07-13",
   "age_days": 108,
   "hr_active_days": 0.0,
-  "salary_display": "8K~12K"
+  "salary_display": "8K~12K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:7c395a05c651",
@@ -2253,8 +2433,10 @@
   "first_seen": "2026-10-27",
   "posted_at": "2026-06-09",
   "age_days": 142,
-  "hr_active_days": 1.0,
-  "salary_display": "8K~12K·17薪"
+  "hr_active_days": null,
+  "salary_display": "8K~12K·17薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:6860b2ab0e0e",
@@ -2317,7 +2499,9 @@
   "posted_at": "2026-01-13",
   "age_days": 289,
   "hr_active_days": null,
-  "salary_display": "8K~12K"
+  "salary_display": "8K~12K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1342438610J40808292206",
@@ -2363,7 +2547,9 @@
   "posted_at": "2026-10-27",
   "age_days": 2,
   "hr_active_days": 0.0,
-  "salary_display": "8000-10000元"
+  "salary_display": "8000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC646500180J41042390804",
@@ -2412,7 +2598,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.1,
-  "salary_display": "8000-10000元"
+  "salary_display": "8000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC137953310J40886267401",
@@ -2458,7 +2646,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.0,
-  "salary_display": "8000-10000元"
+  "salary_display": "8000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC120989510J40911150113",
@@ -2504,7 +2694,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.0,
-  "salary_display": "8000-10000元"
+  "salary_display": "8000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1207284370J41035671204",
@@ -2550,7 +2742,57 @@
   "posted_at": "2026-10-14",
   "age_days": 15,
   "hr_active_days": 14.7,
-  "salary_display": "8000-10000元·13薪"
+  "salary_display": "8000-10000元·13薪",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1476314500J40894240910",
+  "company": "上海厚平养老服务有限公司",
+  "title": "中医助理",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "8000-10000元",
+  "salary_min": 8000,
+  "salary_max": 10000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "300-499人",
+  "emp": 300,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CCL1476314500J40894240910.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-26",
+  "age_days": 3,
+  "hr_active_days": 2.1,
+  "salary_display": "8000-10000元",
+  "assist": true,
+  "small": false
  },
  {
   "id": "ext:ba754f09315f",
@@ -2610,7 +2852,9 @@
   "posted_at": "2025-11-28",
   "age_days": 335,
   "hr_active_days": null,
-  "salary_display": "8K~10K·13薪"
+  "salary_display": "8K~10K·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:da7e35a1dd3c",
@@ -2671,7 +2915,9 @@
   "posted_at": "2026-03-06",
   "age_days": 237,
   "hr_active_days": 0.0,
-  "salary_display": "8K~9K·14薪"
+  "salary_display": "8K~9K·14薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC147926170J40808439106",
@@ -2717,7 +2963,153 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.1,
-  "salary_display": "7000-14000元"
+  "salary_display": "7000-14000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CC245090110J41045947302",
+  "company": "泰格医药",
+  "title": "上海-CRC-尽快到岗",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "7000-14000元",
+  "salary_min": 7000,
+  "salary_max": 14000,
+  "salary_note": "",
+  "group": "临床研究",
+  "track": "临床研究",
+  "segment": "CRO与服务",
+  "edu": "大专",
+  "exp": "经验不限",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": true,
+  "big_tier": "头部CRO",
+  "company_size": "10000人以上",
+  "emp": 10000,
+  "reason": "医疗行业相关岗位；大专起投、经验不限",
+  "url": "https://jobs.zhaopin.com/CC245090110J41045947302.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "高",
+  "fit_note": "临床实习熟悉病历与诊疗流程，CRA/CRC 主要看沟通和细致度",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-29",
+  "age_days": 0,
+  "hr_active_days": 0.0,
+  "salary_display": "7000-14000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CC245090110J41045942802",
+  "company": "泰格医药",
+  "title": "上海-CRC-临床协调11/12/1月到岗",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "7000-14000元",
+  "salary_min": 7000,
+  "salary_max": 14000,
+  "salary_note": "",
+  "group": "临床研究",
+  "track": "临床研究",
+  "segment": "CRO与服务",
+  "edu": "大专",
+  "exp": "经验不限",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": true,
+  "big_tier": "头部CRO",
+  "company_size": "10000人以上",
+  "emp": 10000,
+  "reason": "医疗行业相关岗位；大专起投、经验不限",
+  "url": "https://jobs.zhaopin.com/CC245090110J41045942802.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "高",
+  "fit_note": "临床实习熟悉病历与诊疗流程，CRA/CRC 主要看沟通和细致度",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-29",
+  "age_days": 0,
+  "hr_active_days": 0.0,
+  "salary_display": "7000-14000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1254783430J40973300515",
+  "company": "上海艾莎医学科技有限公司",
+  "title": "医生助理-上海",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "7000-13000元",
+  "salary_min": 7000,
+  "salary_max": 13000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "500-999人",
+  "emp": 500,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CCL1254783430J40973300515.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-08",
+  "age_days": 21,
+  "hr_active_days": 0.0,
+  "salary_display": "7000-13000元",
+  "assist": true,
+  "small": false
  },
  {
   "id": "ext:7871b15abf68",
@@ -2778,7 +3170,9 @@
   "posted_at": "2026-09-16",
   "age_days": 43,
   "hr_active_days": 0.0,
-  "salary_display": "7K~13K"
+  "salary_display": "7K~13K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC142975360J40975487715",
@@ -2824,7 +3218,9 @@
   "posted_at": "2026-10-20",
   "age_days": 9,
   "hr_active_days": 0.0,
-  "salary_display": "7000-12000元"
+  "salary_display": "7000-12000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC174594720J40995994002",
@@ -2870,7 +3266,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.0,
-  "salary_display": "7000-12000元"
+  "salary_display": "7000-12000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC181097920J40901236409",
@@ -2916,7 +3314,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.1,
-  "salary_display": "7000-12000元"
+  "salary_display": "7000-12000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC489467520J40869210711",
@@ -2961,8 +3361,10 @@
   "first_seen": "2026-10-29",
   "posted_at": "2026-08-17",
   "age_days": 73,
-  "hr_active_days": 0.0,
-  "salary_display": "7000-12000元"
+  "hr_active_days": 0.1,
+  "salary_display": "7000-12000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:0f7639b9d404",
@@ -3023,7 +3425,9 @@
   "posted_at": "2026-10-19",
   "age_days": 10,
   "hr_active_days": 0.0,
-  "salary_display": "7K~12K"
+  "salary_display": "7K~12K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1342438610J40804031206",
@@ -3070,7 +3474,9 @@
   "posted_at": "2026-10-24",
   "age_days": 5,
   "hr_active_days": 0.0,
-  "salary_display": "7000-10000元"
+  "salary_display": "7000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC181097920J40834424809",
@@ -3116,7 +3522,9 @@
   "posted_at": "2026-10-27",
   "age_days": 2,
   "hr_active_days": 0.7,
-  "salary_display": "7000-10000元"
+  "salary_display": "7000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:4278e06244d9",
@@ -3179,7 +3587,9 @@
   "posted_at": "2026-10-10",
   "age_days": 19,
   "hr_active_days": 0.0,
-  "salary_display": "7K~10K·13薪"
+  "salary_display": "7K~10K·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:89e27419aa3e",
@@ -3241,7 +3651,9 @@
   "posted_at": "2026-04-28",
   "age_days": 184,
   "hr_active_days": null,
-  "salary_display": "7K~10K"
+  "salary_display": "7K~10K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC120989510J40912625013",
@@ -3290,7 +3702,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.7,
-  "salary_display": "7000-9000元·14薪"
+  "salary_display": "7000-9000元·14薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC120989510J40900049213",
@@ -3336,7 +3750,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.7,
-  "salary_display": "7000-9000元·14薪"
+  "salary_display": "7000-9000元·14薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:85fed760c143",
@@ -3398,7 +3814,9 @@
   "posted_at": "2026-04-10",
   "age_days": 202,
   "hr_active_days": null,
-  "salary_display": "7K~9K"
+  "salary_display": "7K~9K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1379652940J40969749804",
@@ -3444,7 +3862,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.0,
-  "salary_display": "6000-12000元"
+  "salary_display": "6000-12000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC455423830J40975393315",
@@ -3490,7 +3910,57 @@
   "posted_at": "2026-10-16",
   "age_days": 13,
   "hr_active_days": 1.0,
-  "salary_display": "6000-12000元"
+  "salary_display": "6000-12000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CC425721620J40532143909",
+  "company": "上海伯塔医疗器械有限公司",
+  "title": "苏州助理医生",
+  "city": "苏州",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "6000-12000元",
+  "salary_min": 6000,
+  "salary_max": 12000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "器械与诊断",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "100-299人",
+  "emp": 100,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CC425721620J40532143909.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-17",
+  "age_days": 12,
+  "hr_active_days": 0.0,
+  "salary_display": "6000-12000元",
+  "assist": true,
+  "small": false
  },
  {
   "id": "ext:ec589a21fec0",
@@ -3551,7 +4021,9 @@
   "posted_at": "2026-04-25",
   "age_days": 187,
   "hr_active_days": null,
-  "salary_display": "6K~12K"
+  "salary_display": "6K~12K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC811184130J40793632316",
@@ -3597,7 +4069,9 @@
   "posted_at": "2026-10-27",
   "age_days": 2,
   "hr_active_days": 0.0,
-  "salary_display": "6000-11000元"
+  "salary_display": "6000-11000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC120030850J40684278814",
@@ -3646,7 +4120,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.1,
-  "salary_display": "6000-11000元·13薪"
+  "salary_display": "6000-11000元·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC243823910J40972548915",
@@ -3692,7 +4168,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.0,
-  "salary_display": "6000-10000元"
+  "salary_display": "6000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC449104480J40800958616",
@@ -3738,7 +4216,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.1,
-  "salary_display": "6000-10000元"
+  "salary_display": "6000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC655087220J40976080315",
@@ -3784,7 +4264,9 @@
   "posted_at": "2026-10-24",
   "age_days": 5,
   "hr_active_days": 0.0,
-  "salary_display": "6000-10000元"
+  "salary_display": "6000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC245090110J41036585802",
@@ -3830,7 +4312,105 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.0,
-  "salary_display": "6000-10000元"
+  "salary_display": "6000-10000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1480957180J40778249513",
+  "company": "吉膳家健康科技(苏州)有限公司上海分公司",
+  "title": "中医医助",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "6000-10000元",
+  "salary_min": 6000,
+  "salary_max": 10000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "数字健康",
+  "edu": "本科",
+  "exp": "经验不限",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "100-299人",
+  "emp": 100,
+  "reason": "医疗行业相关岗位；本科起投、经验不限",
+  "url": "https://jobs.zhaopin.com/CCL1480957180J40778249513.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-25",
+  "age_days": 4,
+  "hr_active_days": 2.1,
+  "salary_display": "6000-10000元",
+  "assist": true,
+  "small": false
+ },
+ {
+  "id": "zn:CC145557230J40888424505",
+  "company": "北京大诚中医针灸医院有限公司",
+  "title": "中医助理医师",
+  "city": "苏州",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "6000-10000元",
+  "salary_min": 6000,
+  "salary_max": 10000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "100-299人",
+  "emp": 100,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CC145557230J40888424505.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-23",
+  "age_days": 6,
+  "hr_active_days": 1.9,
+  "salary_display": "6000-10000元",
+  "assist": true,
+  "small": false
  },
  {
   "id": "ext:f0f4e0f4da1e",
@@ -3891,7 +4471,9 @@
   "posted_at": "2026-10-12",
   "age_days": 17,
   "hr_active_days": 0.0,
-  "salary_display": "6K~10K"
+  "salary_display": "6K~10K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:b29b92b32c69",
@@ -3951,7 +4533,9 @@
   "posted_at": "2026-05-11",
   "age_days": 171,
   "hr_active_days": 0.0,
-  "salary_display": "6K~10K"
+  "salary_display": "6K~10K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:7a3b0bae3588",
@@ -4012,7 +4596,9 @@
   "posted_at": "2026-08-25",
   "age_days": 65,
   "hr_active_days": null,
-  "salary_display": "6K~10K"
+  "salary_display": "6K~10K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC334056080J40970078308",
@@ -4059,7 +4645,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.6,
-  "salary_display": "6000-9000元"
+  "salary_display": "6000-9000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1281563630J40863852511",
@@ -4109,7 +4697,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 13.8,
-  "salary_display": "6000-9000元"
+  "salary_display": "6000-9000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC245090110J41037990702",
@@ -4155,7 +4745,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.0,
-  "salary_display": "6000-9000元"
+  "salary_display": "6000-9000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC121084390J40942373412",
@@ -4201,7 +4793,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.0,
-  "salary_display": "6000-8000元"
+  "salary_display": "6000-8000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC164348410J40862222412",
@@ -4247,7 +4841,9 @@
   "posted_at": "2026-10-19",
   "age_days": 10,
   "hr_active_days": 9.8,
-  "salary_display": "6000-8000元"
+  "salary_display": "6000-8000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC245090110J40910503702",
@@ -4293,7 +4889,9 @@
   "posted_at": "2026-10-22",
   "age_days": 7,
   "hr_active_days": 1.6,
-  "salary_display": "6000-8000元"
+  "salary_display": "6000-8000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC245090110J40845058702",
@@ -4339,7 +4937,153 @@
   "posted_at": "2026-10-27",
   "age_days": 2,
   "hr_active_days": 0.7,
-  "salary_display": "6000-8000元"
+  "salary_display": "6000-8000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CC287860130J41038035304",
+  "company": "泰康口腔集团有限公司",
+  "title": "口腔医生助理",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "6000-8000元",
+  "salary_min": 6000,
+  "salary_max": 8000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "1000-9999人",
+  "emp": 1000,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CC287860130J41038035304.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-09-30",
+  "age_days": 29,
+  "hr_active_days": 14.7,
+  "salary_display": "6000-8000元",
+  "assist": true,
+  "small": false
+ },
+ {
+  "id": "zn:CC307810130J41000737702",
+  "company": "上海阿克曼医学检验所有限公司",
+  "title": "医生助理",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "6000-8000元",
+  "salary_min": 6000,
+  "salary_max": 8000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "100-299人",
+  "emp": 100,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CC307810130J41000737702.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-09-29",
+  "age_days": 30,
+  "hr_active_days": 0.0,
+  "salary_display": "6000-8000元",
+  "assist": true,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1528701070J40910826313",
+  "company": "杭州颜熙医疗美容门诊部有限公司",
+  "title": "医美外科医助",
+  "city": "杭州",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "6000-8000元",
+  "salary_min": 6000,
+  "salary_max": 8000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医美",
+  "edu": "学历不限",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "20-99人",
+  "emp": 20,
+  "reason": "医疗行业相关岗位；学历不限起投",
+  "url": "https://jobs.zhaopin.com/CCL1528701070J40910826313.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-13",
+  "age_days": 16,
+  "hr_active_days": 16.8,
+  "salary_display": "6000-8000元",
+  "assist": true,
+  "small": true
  },
  {
   "id": "ext:3c6ee7753362",
@@ -4399,7 +5143,9 @@
   "posted_at": "2026-09-16",
   "age_days": 43,
   "hr_active_days": 0.0,
-  "salary_display": "6K~8K"
+  "salary_display": "6K~8K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:fbde4ffc8c99",
@@ -4459,7 +5205,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": null,
-  "salary_display": "6K~8K"
+  "salary_display": "6K~8K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:f4b4c738be43",
@@ -4518,7 +5266,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": null,
-  "salary_display": "6K~8K"
+  "salary_display": "6K~8K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:5c174401553f",
@@ -4579,7 +5329,9 @@
   "posted_at": "2026-10-14",
   "age_days": 15,
   "hr_active_days": null,
-  "salary_display": "6K~8K"
+  "salary_display": "6K~8K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:5bc588ed371a",
@@ -4640,7 +5392,9 @@
   "posted_at": "2026-01-08",
   "age_days": 294,
   "hr_active_days": null,
-  "salary_display": "6K~8K"
+  "salary_display": "6K~8K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC120051470J40929858703",
@@ -4686,7 +5440,9 @@
   "posted_at": "2026-10-23",
   "age_days": 6,
   "hr_active_days": 0.7,
-  "salary_display": "6000-7000元"
+  "salary_display": "6000-7000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC164348410J40944496912",
@@ -4732,7 +5488,9 @@
   "posted_at": "2026-10-19",
   "age_days": 10,
   "hr_active_days": 9.8,
-  "salary_display": "5000-10000元"
+  "salary_display": "5000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC174594720J40484722502",
@@ -4778,7 +5536,9 @@
   "posted_at": "2026-10-24",
   "age_days": 5,
   "hr_active_days": 1.1,
-  "salary_display": "5000-10000元"
+  "salary_display": "5000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC264289910J40874898301",
@@ -4823,8 +5583,10 @@
   "first_seen": "2026-10-25",
   "posted_at": "2026-10-29",
   "age_days": 0,
-  "hr_active_days": 0.0,
-  "salary_display": "5000-10000元"
+  "hr_active_days": 0.1,
+  "salary_display": "5000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC227621910J40698784305",
@@ -4870,7 +5632,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.0,
-  "salary_display": "5000-10000元"
+  "salary_display": "5000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC429308980J40929061212",
@@ -4917,7 +5681,9 @@
   "posted_at": "2026-10-21",
   "age_days": 8,
   "hr_active_days": 0.0,
-  "salary_display": "5000-10000元"
+  "salary_display": "5000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC542159120J40976493315",
@@ -4963,7 +5729,9 @@
   "posted_at": "2026-10-27",
   "age_days": 2,
   "hr_active_days": 0.1,
-  "salary_display": "5000-10000元·13薪"
+  "salary_display": "5000-10000元·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC000616790J40970372008",
@@ -5010,7 +5778,9 @@
   "posted_at": "2026-10-22",
   "age_days": 7,
   "hr_active_days": 0.0,
-  "salary_display": "5000-10000元"
+  "salary_display": "5000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1342438610J40807708106",
@@ -5057,7 +5827,9 @@
   "posted_at": "2026-10-22",
   "age_days": 7,
   "hr_active_days": 0.0,
-  "salary_display": "5000-10000元"
+  "salary_display": "5000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC181097920J40899702609",
@@ -5106,7 +5878,9 @@
   "posted_at": "2026-10-23",
   "age_days": 6,
   "hr_active_days": 0.1,
-  "salary_display": "5000-10000元"
+  "salary_display": "5000-10000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC149826510J41045643902",
@@ -5152,7 +5926,79 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.0,
-  "salary_display": "5000-10000元"
+  "salary_display": "5000-10000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "ext:e5ab5c212368",
+  "company": "上海谊众药业",
+  "title": "临床学术专员（肿瘤新药·招20人）",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "5K~10K",
+  "salary_min": 5000,
+  "salary_max": 10000,
+  "salary_note": "",
+  "group": "医学事务",
+  "track": "医学信息MSL",
+  "segment": "药企与生物",
+  "edu": "本科",
+  "exp": "应届可投",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "",
+  "emp": 0,
+  "reason": "科创板上市招20人，届别无要求，医学知识对口",
+  "url": "https://jy.scu.edu.cn/index/index/employjobdetail.html?data=MDAwMDAwMDAwMJG6n3_Ed6imi4qQtLh4Y9yK0dTOynbddricp9CWi5qikaeWacSdqLqGfaK2w4iil5C4zNbGiL-E",
+  "link_kind": "高校就业网",
+  "source": "高校就业网",
+  "site": "四川大学就业网",
+  "channel": "高校就业网",
+  "site_host": "jy.scu.edu.cn",
+  "verified_at": "2026-10-29",
+  "duties": [
+   "深入学习掌握公司药品（注射用紫杉醇聚合物胶束）研发、临床研究、临床用药知识",
+   "编写学术推广相关资料、制作学术PPT",
+   "组织参与药品推广学术会议，进行药品知识宣讲",
+   "对接专家客户，处理药品相关问题",
+   "工作地点：上海市奉贤区东方美谷"
+  ],
+  "requirements": [
+   "临床医学、药学、生物或护理等医药相关专业本科及以上学历",
+   "届别无要求，可全职可实习",
+   "具备沟通表达能力、逻辑清晰",
+   "能接受区域出差"
+  ],
+  "benefits": [
+   "5K-10K，招聘20人",
+   "双休法休、五险一金、免费午餐、员工宿舍",
+   "带薪培训、带薪年假、年节福利、高温补贴、员工体检",
+   "上海谊众为科创板上市药企（688091），核心产品为2.2类新药获批、2024年国谈药品",
+   "岗位有效期至2026年11月29日，简历投递：shyz_job@163.com"
+  ],
+  "warnings": [
+   "岗位含推广性质，面试需确认考核指标（纯学术 vs 含销售）",
+   "上海奉贤区位置较远，通勤与住宿需评估",
+   "需接受区域出差"
+  ],
+  "comment": "上海谊众是科创板上市的肿瘤创新药企（688091，核心产品'注射用紫杉醇聚合物胶束'为2.2类新药、2024国谈药品）。临床学术专员本质是'学术推广+医学信息'的复合入门岗——负责学术PPT、科室会宣讲、专家对接，医学知识是核心能力，临床本科完全对口，且明确'届别无要求'，无证应届生和持证有1年经验者都可投。招聘20人、有效期到11月底，是目前MSL/学术方向的稳妥批量机会。",
+  "dev_path": "临床学术专员 → 区域学术经理 → 医学事务/市场经理",
+  "dev_ceiling": "3~5年后年薪15~30万",
+  "date": "2026-10-29",
+  "fit": "低",
+  "fit_note": "MSL/医学写作多要硕士或英文强，CET-4 是短板；PV 相对可入",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-09-01",
+  "age_days": 58,
+  "hr_active_days": null,
+  "salary_display": "5K~10K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:e91cef65c2d9",
@@ -5214,7 +6060,9 @@
   "posted_at": "2026-10-09",
   "age_days": 20,
   "hr_active_days": null,
-  "salary_display": "5K~10K"
+  "salary_display": "5K~10K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:18662df52d50",
@@ -5274,7 +6122,9 @@
   "posted_at": "2026-07-22",
   "age_days": 99,
   "hr_active_days": null,
-  "salary_display": "5K~10K·13薪"
+  "salary_display": "5K~10K·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:2ca5ef093def",
@@ -5334,7 +6184,9 @@
   "posted_at": "2025-12-02",
   "age_days": 331,
   "hr_active_days": 0.0,
-  "salary_display": "5K~10K·14薪"
+  "salary_display": "5K~10K·14薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:69f2c029043e",
@@ -5400,7 +6252,9 @@
   "posted_at": "2026-09-21",
   "age_days": 38,
   "hr_active_days": 0.0,
-  "salary_display": "5K~10K"
+  "salary_display": "5K~10K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC429308980J40906539712",
@@ -5445,8 +6299,10 @@
   "first_seen": "2026-10-25",
   "posted_at": "2026-08-18",
   "age_days": 72,
-  "hr_active_days": 3.1,
-  "salary_display": "5000-8000元"
+  "hr_active_days": 0.0,
+  "salary_display": "5000-8000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC466375480J40799195907",
@@ -5492,7 +6348,153 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.0,
-  "salary_display": "5000-8000元"
+  "salary_display": "5000-8000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1465558090J40655958306",
+  "company": "咿呀英博(湖北)控股集团有限公司",
+  "title": "口腔种植医助",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "5000-8000元",
+  "salary_min": 5000,
+  "salary_max": 8000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "1000-9999人",
+  "emp": 1000,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CCL1465558090J40655958306.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-22",
+  "age_days": 7,
+  "hr_active_days": 0.0,
+  "salary_display": "5000-8000元",
+  "assist": true,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1498581390J40907001905",
+  "company": "杭州禧善医疗美容诊所有限公司",
+  "title": "皮肤科医助",
+  "city": "杭州",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "5000-8000元",
+  "salary_min": 5000,
+  "salary_max": 8000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医美",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "20-99人",
+  "emp": 20,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CCL1498581390J40907001905.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-26",
+  "age_days": 3,
+  "hr_active_days": 1.8,
+  "salary_display": "5000-8000元",
+  "assist": true,
+  "small": true
+ },
+ {
+  "id": "zn:CCL1521057740J40873147901",
+  "company": "杭州禾静中医医院有限公司",
+  "title": "中医医助",
+  "city": "杭州",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "5000-8000元",
+  "salary_min": 5000,
+  "salary_max": 8000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "300-499人",
+  "emp": 300,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CCL1521057740J40873147901.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-20",
+  "age_days": 9,
+  "hr_active_days": 1.8,
+  "salary_display": "5000-8000元",
+  "assist": true,
+  "small": false
  },
  {
   "id": "ext:b3b9294c8537",
@@ -5552,7 +6554,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": null,
-  "salary_display": "5K~8K"
+  "salary_display": "5K~8K",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC482006380J40807054006",
@@ -5598,7 +6602,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.0,
-  "salary_display": "5000-7000元·13薪"
+  "salary_display": "5000-7000元·13薪",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC374524710J40891214312",
@@ -5644,7 +6650,105 @@
   "posted_at": "2026-10-16",
   "age_days": 13,
   "hr_active_days": 0.0,
-  "salary_display": "5000-7000元"
+  "salary_display": "5000-7000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1452130190J40529999402",
+  "company": "南京顺势医药科技有限公司",
+  "title": "互联网医院医助",
+  "city": "南京",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "5000-7000元",
+  "salary_min": 5000,
+  "salary_max": 7000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "药企与生物",
+  "edu": "本科",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "20-99人",
+  "emp": 20,
+  "reason": "医疗行业相关岗位；本科起投",
+  "url": "https://jobs.zhaopin.com/CCL1452130190J40529999402.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-03-02",
+  "age_days": 241,
+  "hr_active_days": 0.7,
+  "salary_display": "5000-7000元",
+  "assist": true,
+  "small": true
+ },
+ {
+  "id": "zn:CCL1348119090J40881908807",
+  "company": "杭州青善口腔门诊部有限公司",
+  "title": "口腔助理医生（正畸）",
+  "city": "杭州",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "5000-7000元",
+  "salary_min": 5000,
+  "salary_max": 7000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "100-299人",
+  "emp": 100,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CCL1348119090J40881908807.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-23",
+  "age_days": 6,
+  "hr_active_days": 1.8,
+  "salary_display": "5000-7000元",
+  "assist": true,
+  "small": false
  },
  {
   "id": "zn:CC245090110J41033131202",
@@ -5689,8 +6793,106 @@
   "first_seen": "2026-10-28",
   "posted_at": "2026-09-20",
   "age_days": 39,
-  "hr_active_days": 14.6,
-  "salary_display": "5000-6000元"
+  "hr_active_days": 14.7,
+  "salary_display": "5000-6000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CC357164520J40915133212",
+  "company": "上海神州医院",
+  "title": "敬老院医助",
+  "city": "上海",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "5000-6000元",
+  "salary_min": 5000,
+  "salary_max": 6000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "100-299人",
+  "emp": 100,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CC357164520J40915133212.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-29",
+  "age_days": 0,
+  "hr_active_days": 0.1,
+  "salary_display": "5000-6000元",
+  "assist": true,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1348119090J40881566207",
+  "company": "杭州青善口腔门诊部有限公司",
+  "title": "正畸助理医生",
+  "city": "杭州",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "5000-6000元",
+  "salary_min": 5000,
+  "salary_max": 6000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1年以下",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "100-299人",
+  "emp": 100,
+  "reason": "医疗行业相关岗位；大专起投、经验门槛低",
+  "url": "https://jobs.zhaopin.com/CCL1348119090J40881566207.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-22",
+  "age_days": 7,
+  "hr_active_days": 1.8,
+  "salary_display": "5000-6000元",
+  "assist": true,
+  "small": false
  },
  {
   "id": "zn:CC426985410J40127950909",
@@ -5736,7 +6938,9 @@
   "posted_at": "2026-10-20",
   "age_days": 9,
   "hr_active_days": 9.1,
-  "salary_display": "4000-8000元"
+  "salary_display": "4000-8000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC227621910J40734424205",
@@ -5782,7 +6986,9 @@
   "posted_at": "2026-10-23",
   "age_days": 6,
   "hr_active_days": 0.0,
-  "salary_display": "4000-8000元"
+  "salary_display": "4000-8000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC601993130J40901444509",
@@ -5829,7 +7035,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.8,
-  "salary_display": "4000-8000元"
+  "salary_display": "4000-8000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC203345920J40820046801",
@@ -5876,7 +7084,9 @@
   "posted_at": "2026-01-12",
   "age_days": 290,
   "hr_active_days": 0.0,
-  "salary_display": "4000-8000元"
+  "salary_display": "4000-8000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC224773320J40304657805",
@@ -5922,8 +7132,154 @@
   "first_seen": "2026-10-28",
   "posted_at": "2026-10-29",
   "age_days": 0,
-  "hr_active_days": 0.7,
-  "salary_display": "4000-8000元"
+  "hr_active_days": 0.0,
+  "salary_display": "4000-8000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CC451623710J40833040507",
+  "company": "南京肛泰中医医院有限公司",
+  "title": "门诊医助",
+  "city": "南京",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "4000-8000元",
+  "salary_min": 4000,
+  "salary_max": 8000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "经验不限",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "100-299人",
+  "emp": 100,
+  "reason": "医疗行业相关岗位；大专起投、经验不限",
+  "url": "https://jobs.zhaopin.com/CC451623710J40833040507.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-07-06",
+  "age_days": 115,
+  "hr_active_days": 4.8,
+  "salary_display": "4000-8000元",
+  "assist": true,
+  "small": false
+ },
+ {
+  "id": "zn:CC572795520J40880126111",
+  "company": "南京邦德中医医院有限公司",
+  "title": "中医科门诊医师助理",
+  "city": "南京",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "4000-8000元",
+  "salary_min": 4000,
+  "salary_max": 8000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "经验不限",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "500-999人",
+  "emp": 500,
+  "reason": "医疗行业相关岗位；大专起投、经验不限",
+  "url": "https://jobs.zhaopin.com/CC572795520J40880126111.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-13",
+  "age_days": 16,
+  "hr_active_days": 5.8,
+  "salary_display": "4000-8000元",
+  "assist": true,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1469189510J40858821205",
+  "company": "南京华厦眼科医院有限公司",
+  "title": "医生助理",
+  "city": "南京",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "4000-8000元",
+  "salary_min": 4000,
+  "salary_max": 8000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "1000-9999人",
+  "emp": 1000,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CCL1469189510J40858821205.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-21",
+  "age_days": 8,
+  "hr_active_days": 1.0,
+  "salary_display": "4000-8000元",
+  "assist": true,
+  "small": false
  },
  {
   "id": "zn:CCL1413062170J40805285906",
@@ -5969,7 +7325,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.0,
-  "salary_display": "4000-7000元"
+  "salary_display": "4000-7000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC303430180J40807378206",
@@ -6014,8 +7372,106 @@
   "first_seen": "2026-10-25",
   "posted_at": "2026-10-27",
   "age_days": 2,
-  "hr_active_days": 0.6,
-  "salary_display": "4000-6000元"
+  "hr_active_days": 0.7,
+  "salary_display": "4000-6000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1485057220J40863533701",
+  "company": "济南中肤医院有限公司",
+  "title": "医生助理",
+  "city": "南京",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "4000-6000元",
+  "salary_min": 4000,
+  "salary_max": 6000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "100-299人",
+  "emp": 100,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CCL1485057220J40863533701.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-08-20",
+  "age_days": 70,
+  "hr_active_days": 0.2,
+  "salary_display": "4000-6000元",
+  "assist": true,
+  "small": false
+ },
+ {
+  "id": "zn:CC530216030J40968421808",
+  "company": "南通文峰中西医结合医院有限公司",
+  "title": "精神心理科医生助理",
+  "city": "南通",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "4000-6000元",
+  "salary_min": 4000,
+  "salary_max": 6000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "1-3年",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "20-99人",
+  "emp": 20,
+  "reason": "医疗行业相关岗位；大专起投",
+  "url": "https://jobs.zhaopin.com/CC530216030J40968421808.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-13",
+  "age_days": 16,
+  "hr_active_days": 13.1,
+  "salary_display": "4000-6000元",
+  "assist": true,
+  "small": true
  },
  {
   "id": "zn:CC245090110J40895696802",
@@ -6061,7 +7517,9 @@
   "posted_at": "2026-10-27",
   "age_days": 2,
   "hr_active_days": 0.7,
-  "salary_display": "4000-5000元"
+  "salary_display": "4000-5000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC245090110J40504866102",
@@ -6107,7 +7565,106 @@
   "posted_at": "2026-10-09",
   "age_days": 20,
   "hr_active_days": 0.7,
-  "salary_display": "4000-5000元"
+  "salary_display": "4000-5000元",
+  "assist": false,
+  "small": false
+ },
+ {
+  "id": "zn:CCL1485053610J40866796713",
+  "company": "杭州口腔医院集团未来科技城口腔门诊部有限公司",
+  "title": "口腔助理医师",
+  "city": "杭州",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "4000-5000元",
+  "salary_min": 4000,
+  "salary_max": 5000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "大专",
+  "exp": "经验不限",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "100-299人",
+  "emp": 100,
+  "reason": "医疗行业相关岗位；大专起投、经验不限",
+  "url": "https://jobs.zhaopin.com/CCL1485053610J40866796713.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-29",
+  "age_days": 0,
+  "hr_active_days": 1.5,
+  "salary_display": "4000-5000元",
+  "assist": true,
+  "small": false
+ },
+ {
+  "id": "zn:CC528688980J40740337416",
+  "company": "宁波牙科医院集团有限公司",
+  "title": "口腔医助（本科2026）",
+  "city": "宁波",
+  "cities_all": [],
+  "group_count": 1,
+  "salary_text": "4000-5000元·13薪",
+  "salary_min": 4000,
+  "salary_max": 5000,
+  "salary_note": "",
+  "group": "医疗服务",
+  "track": "医疗服务",
+  "segment": "医院与诊所",
+  "edu": "本科",
+  "exp": "经验不限",
+  "work_type": "全职",
+  "is_intern": false,
+  "is_campus": false,
+  "is_big": false,
+  "big_tier": "",
+  "company_size": "500-999人",
+  "emp": 500,
+  "reason": "医疗行业相关岗位；本科起投、经验不限",
+  "url": "https://jobs.zhaopin.com/CC528688980J40740337416.htm",
+  "link_kind": "招聘平台",
+  "source": "智联招聘",
+  "site": "智联招聘",
+  "channel": "招聘平台",
+  "verified_at": "2026-10-29",
+  "duties": [],
+  "requirements": [],
+  "benefits": [],
+  "warnings": [],
+  "comment": "",
+  "dev_path": "",
+  "dev_ceiling": "",
+  "merged_from": "智联招聘",
+  "date": "2026-10-29",
+  "fit": "中",
+  "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
+  "first_seen": "2026-10-29",
+  "posted_at": "2026-10-25",
+  "age_days": 4,
+  "hr_active_days": 1.1,
+  "salary_display": "4000-5000元·13薪",
+  "assist": true,
+  "small": false
  },
  {
   "id": "zn:CC120989510J40883626813",
@@ -6153,7 +7710,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.0,
-  "salary_display": "180-200元/天"
+  "salary_display": "180-200元/天",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC120989510J40872938113",
@@ -6199,7 +7758,9 @@
   "posted_at": "2026-10-26",
   "age_days": 3,
   "hr_active_days": 0.8,
-  "salary_display": "150-220元/天"
+  "salary_display": "150-220元/天",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC274258380J41038832102",
@@ -6245,7 +7806,9 @@
   "posted_at": "2026-10-10",
   "age_days": 19,
   "hr_active_days": 0.7,
-  "salary_display": "150-200元/天"
+  "salary_display": "150-200元/天",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1521488390J40853070616",
@@ -6291,7 +7854,9 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.8,
-  "salary_display": "150-180元/天"
+  "salary_display": "150-180元/天",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC181097920J40899873309",
@@ -6337,7 +7902,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.1,
-  "salary_display": "3000-6000元"
+  "salary_display": "3000-6000元",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC190164120J41032670604",
@@ -6383,7 +7950,9 @@
   "posted_at": "2026-09-29",
   "age_days": 30,
   "hr_active_days": 0.1,
-  "salary_display": "130-150元/天"
+  "salary_display": "130-150元/天",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC000518670J40808444406",
@@ -6429,19 +7998,20 @@
   "posted_at": "2026-10-28",
   "age_days": 1,
   "hr_active_days": 0.0,
-  "salary_display": "120-200元/天"
+  "salary_display": "120-200元/天",
+  "assist": false,
+  "small": false
  },
  {
-  "id": "zn:CC567846720J40807172006",
+  "id": "zn:CC567846720J40807172906",
   "company": "北京夸克侠科技有限公司",
-  "title": "CRA(临床监察员)实习生-南京",
-  "city": "南京",
+  "title": "CRA(临床监察员)实习生-无锡",
+  "city": "无锡",
   "cities_all": [
-   "南京",
    "无锡",
    "杭州"
   ],
-  "group_count": 3,
+  "group_count": 2,
   "salary_text": "120-200元/天",
   "salary_min": 2640,
   "salary_max": 4400,
@@ -6458,8 +8028,8 @@
   "big_tier": "",
   "company_size": "100-299人",
   "emp": 100,
-  "reason": "医疗行业相关岗位；实习岗，可转正路径要看表现、本科起投、经验不限（同一岗位在 3 个城市发布）",
-  "url": "https://jobs.zhaopin.com/CC567846720J40807172006.htm",
+  "reason": "医疗行业相关岗位；实习岗，可转正路径要看表现、本科起投、经验不限（同一岗位在 2 个城市发布）",
+  "url": "https://jobs.zhaopin.com/CC567846720J40807172906.htm",
   "link_kind": "招聘平台",
   "source": "智联招聘",
   "site": "智联招聘",
@@ -6479,7 +8049,9 @@
   "posted_at": "2026-10-29",
   "age_days": 0,
   "hr_active_days": 0.0,
-  "salary_display": "120-200元/天"
+  "salary_display": "120-200元/天",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CC130677670J40896302305",
@@ -6525,7 +8097,9 @@
   "posted_at": "2026-09-17",
   "age_days": 42,
   "hr_active_days": 1.7,
-  "salary_display": "120-150元/天"
+  "salary_display": "120-150元/天",
+  "assist": false,
+  "small": false
  },
  {
   "id": "zn:CCL1305152930J40852687416",
@@ -6571,7 +8145,9 @@
   "posted_at": "2026-10-27",
   "age_days": 2,
   "hr_active_days": 0.1,
-  "salary_display": "90-100元/天"
+  "salary_display": "90-100元/天",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:e23272313e13",
@@ -6632,7 +8208,9 @@
   "fit": "中",
   "fit_note": "院内非临床岗稳定；病案编码需另学编码规则",
   "first_seen": "2026-10-25",
-  "salary_display": "面议"
+  "salary_display": "面议",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:0166e4a633e5",
@@ -6693,7 +8271,9 @@
   "posted_at": "2026-10-16",
   "age_days": 13,
   "hr_active_days": 0.7,
-  "salary_display": "面议"
+  "salary_display": "面议",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:8621ff6da4d6",
@@ -6753,7 +8333,9 @@
   "posted_at": "2026-07-17",
   "age_days": 104,
   "hr_active_days": 14.8,
-  "salary_display": "面议"
+  "salary_display": "面议",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:a1952ae3f1c7",
@@ -6814,7 +8396,9 @@
   "posted_at": "2026-10-20",
   "age_days": 9,
   "hr_active_days": null,
-  "salary_display": "面议"
+  "salary_display": "面议",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:12ec4e4535c1",
@@ -6875,7 +8459,9 @@
   "posted_at": "2026-09-28",
   "age_days": 31,
   "hr_active_days": null,
-  "salary_display": "面议"
+  "salary_display": "面议",
+  "assist": false,
+  "small": false
  },
  {
   "id": "ext:51e3f48e50cd",
@@ -6935,6 +8521,8 @@
   "posted_at": "2026-09-28",
   "age_days": 31,
   "hr_active_days": null,
-  "salary_display": "面议"
+  "salary_display": "面议",
+  "assist": false,
+  "small": false
  }
 ]
