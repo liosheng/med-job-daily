@@ -39,7 +39,23 @@ h1{font-family:var(--serif);font-size:30px;font-weight:600;line-height:1.28;lett
 .stat.gold b{color:var(--gold)}
 
 /* ---------- filters ---------- */
-.filters{position:sticky;top:0;z-index:20;background:var(--bg);padding:14px 0 12px;border-bottom:1px solid var(--border);margin-bottom:20px}
+/* 9 行筛选项吸顶后会吃掉大半屏，一屏只剩两三条岗。
+   默认收成一条 44px 的横条，只显示"现在筛的是什么"，点一下才展开。 */
+.filters{position:sticky;top:0;z-index:20;background:var(--bg);padding:0;border-bottom:1px solid var(--border);margin-bottom:16px}
+.fbar{
+  width:100%;display:flex;align-items:center;justify-content:space-between;gap:12px;
+  background:none;border:0;padding:12px 0;font-family:inherit;cursor:pointer;text-align:left;
+}
+.fbar-l{display:flex;align-items:center;gap:9px;min-width:0;flex:1}
+.fbar-l b{font-size:13px;font-weight:600;color:var(--text);flex:0 0 auto;letter-spacing:.02em}
+.fsum{font-size:12px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fsum.has{color:var(--accent);font-weight:500}
+.fbar-r{font-size:11.5px;color:var(--accent);flex:0 0 auto;display:flex;align-items:center;gap:5px}
+.fbar-r::after{content:'▾';font-size:9px;transition:transform .15s;display:inline-block}
+.filters.open .fbar-r::after{transform:rotate(180deg)}
+.filters.open .fbar{padding-bottom:9px}
+.fbox{display:none;padding:0 0 12px}
+.filters.open .fbox{display:block}
 .frow{display:flex;align-items:flex-start;gap:12px;padding:5px 0}
 .frow+.frow{border-top:1px dashed var(--border2)}
 .flabel{
@@ -66,6 +82,10 @@ h1{font-family:var(--serif);font-size:30px;font-weight:600;line-height:1.28;lett
 .viz summary::-webkit-details-marker{display:none}
 .viz summary::after{content:'展开';font-size:11.5px;color:var(--muted);font-weight:400}
 .viz[open] summary::after{content:'收起'}
+/* 投递记录这条在列表正上方，按一行排：条数 + 最近日期 + 说明，右侧留出「展开」 */
+#apbox summary{display:block;padding-right:64px;position:relative;line-height:1.5}
+#apbox summary::after{position:absolute;right:18px;top:14px}
+.aphint{font-size:11.5px;color:var(--muted);font-weight:400}
 .vizbody{padding:4px 18px 20px;border-top:1px solid var(--border2)}
 .vsec{margin-top:16px}
 .vsec h3{font-size:12px;color:var(--muted);font-weight:600;letter-spacing:.1em;margin-bottom:10px}
@@ -214,8 +234,8 @@ footer .stamp{margin-top:10px;color:#a49d92}
   .flabel{flex:0 0 34px;letter-spacing:.06em;font-size:11px}
   .top{flex-direction:column;gap:7px}
   .sal{font-size:16px}
-  /* 筛选项从 8 行涨到 9 行，吸顶后会吃掉大半屏，这里限高并允许内部滚动 */
-  .filters{padding:10px 0;max-height:66vh;overflow-y:auto;overscroll-behavior:contain}
+  /* 展开后 9 行在手机上仍然很高，限高让筛选区内部滚动，不把整页顶下去 */
+  .fbox{max-height:58vh;overflow-y:auto;overscroll-behavior:contain}
   .card{padding:15px}
   .acts{width:100%;justify-content:flex-end}
   .ap,.go{padding:6px 11px}
@@ -235,7 +255,12 @@ footer .stamp{margin-top:10px;color:#a49d92}
   <div class="stats" id="stats"></div>
 </header>
 
-<section class="filters">
+<section class="filters" id="filters">
+  <button class="fbar" id="fbar" type="button" aria-expanded="false" aria-controls="fbox">
+    <span class="fbar-l"><b>筛选</b><span class="fsum" id="fsum">全部岗位</span></span>
+    <span class="fbar-r" id="fbarR">展开</span>
+  </button>
+  <div class="fbox" id="fbox">
   <div class="frow"><span class="flabel">板块</span><div class="chips" id="rowSection"></div></div>
   <div class="frow"><span class="flabel">细分</span><div class="chips" id="rowGroup"></div></div>
   <div class="frow"><span class="flabel">方式</span><div class="chips" id="rowStyle"></div></div>
@@ -245,6 +270,7 @@ footer .stamp{margin-top:10px;color:#a49d92}
   <div class="frow"><span class="flabel">快捷</span><div class="chips" id="rowQuick"></div></div>
   <div class="frow"><span class="flabel">象限</span><div class="chips" id="rowQuad"></div></div>
   <div class="frow"><span class="flabel">排序</span><div class="chips" id="rowSort"></div></div>
+  </div>
 </section>
 
 <details class="viz" id="routes">
@@ -278,12 +304,12 @@ footer .stamp{margin-top:10px;color:#a49d92}
   </span>
 </div>
 
-<div class="list" id="list"></div>
-
 <details class="viz" id="apbox" style="display:none">
-  <summary>我的投递记录 · 共 <span id="apTotal">0</span> 条（含已下架的，标记不会因为每天更新而丢）</summary>
+  <summary>我的投递记录 · <span id="apTotal">0</span> 条已投<span id="apLast"></span><span class="aphint">（含已下架的，标记不会因为每天更新而丢）</span></summary>
   <div class="vizbody" id="apbody"></div>
 </details>
+
+<div class="list" id="list"></div>
 
 <footer>
   <p><b>收录标准</b>：江浙沪在招岗（含全国多城）；本科可投、无执业医师证与规培证也能进；已排除药店 OTC、带金医药代表、保险理财类销售；硕士起投的不收。</p>
@@ -588,6 +614,55 @@ function drawViz(){
     </div>`;
 }
 
+/* ---------- 筛选区折叠 ----------
+   9 行筛选项吸顶后吃掉大半屏，一屏只剩两三条岗。默认收成一条 44px 的横条。
+   横条上直接写出「现在挂着什么条件」——收起后看不见条件是最容易踩的坑，
+   筛完以为站里就这几条。展开状态记在本机，下次进来保持原样。 */
+const FOLD_KEY = "medjobs_filter_open";
+function setFold(open, persist){
+  const f = document.getElementById("filters");
+  if(!f) return;
+  f.classList.toggle("open", open);
+  const b = document.getElementById("fbar");
+  if(b) b.setAttribute("aria-expanded", open ? "true" : "false");
+  const r = document.getElementById("fbarR");
+  if(r) r.textContent = open ? "收起" : "展开";
+  if(persist !== false){
+    try{ localStorage.setItem(FOLD_KEY, open ? "1" : "0"); }catch(e){}
+  }
+}
+const QUICK_NAME = {desk:"少对生人",deskfit:"少对生人·匹配高",bout:"小而美",long:"长期在招",
+  fit:"匹配我的简历",big:"只看大厂",new:"今日新增",hr:"HR 7天内上线",high:"月薪≥10K",
+  assist:"医助岗",assist_ok:"医助·现在能投",todo:"只看未投递",done:"只看已投递"};
+function sumText(){
+  const bits = [];
+  if(state.section==="campus") bits.push("校招应届");
+  if(state.section==="fulltime") bits.push("全职");
+  if(state.section==="intern") bits.push("实习");
+  [state.group, state.style, state.segment, state.channel, state.site, state.quad]
+    .forEach(v=>{ if(v) bits.push(v); });
+  if(state.route && ROUTEMAP[state.route]) bits.push("路线·" + ROUTEMAP[state.route].name);
+  if(state.quick && QUICK_NAME[state.quick]) bits.push(QUICK_NAME[state.quick]);
+  return bits.length ? bits.join(" · ") : "全部岗位";
+}
+function updateFsum(){
+  const el = document.getElementById("fsum");
+  if(!el) return;
+  const t = sumText();
+  el.textContent = t;
+  el.classList.toggle("has", t !== "全部岗位");
+}
+(function initFold(){
+  const b = document.getElementById("fbar");
+  if(b) b.addEventListener("click", ()=>{
+    setFold(!document.getElementById("filters").classList.contains("open"));
+  });
+  let saved = null;
+  try{ saved = localStorage.getItem(FOLD_KEY); }catch(e){}
+  setFold(saved === "1", false);
+  updateFsum();
+})();
+
 /* ---------- 交互 ---------- */
 document.addEventListener("click", e=>{
   /* 路线图里的「N 条在招」：点路线 = 跳到这一类，是一次导航。
@@ -728,6 +803,12 @@ function drawAp(){
 
   const n = live.length + gone.length;
   if(tot) tot.textContent = n;
+  /* 收起状态下也要能一眼看出「最后投的是哪天」——投递节奏断了比漏看岗位更伤 */
+  const lastEl = document.getElementById("apLast");
+  if(lastEl){
+    const ds = live.map(x=>x.d).concat(gone.map(x=>x.d)).filter(Boolean).sort();
+    lastEl.textContent = ds.length ? " · 最近 " + String(ds[ds.length-1]).slice(5) : "";
+  }
   box.style.display = n ? "" : "none";
   if(!n){ body.innerHTML = ""; return; }
 
@@ -847,6 +928,7 @@ function render(){
   document.getElementById("count").innerHTML = `共 <b style="color:var(--text)">${rows.length}</b> 条`
     + (rtName ? ` · 路线「${esc(rtName)}」<button class="clearap" id="clearRoute" style="margin-left:6px">清除</button>` : "");
   document.getElementById("sortdesc").textContent = SORTDESC[state.sort];
+  updateFsum();
 
   if(!rows.length){
     document.getElementById("list").innerHTML = state.quick==="done"
