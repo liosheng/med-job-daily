@@ -56,6 +56,16 @@ h1{font-family:var(--serif);font-size:30px;font-weight:600;line-height:1.28;lett
 .filters.open .fbar{padding-bottom:9px}
 .fbox{display:none;padding:0 0 12px}
 .filters.open .fbox{display:block}
+/* 常驻快捷条：筛选项收起来以后，最常用的几个入口还得一眼能点到。
+   展开筛选时这一行藏起来，避免和里面的「快捷」那一行重复。 */
+.qbar{display:flex;align-items:center;gap:6px;flex-wrap:wrap;padding:0 0 11px}
+.filters.open .qbar{display:none}
+.qbar .chip{padding:3px 10px;font-size:12px;line-height:1.75}
+/* 「今日新增」比别的重一档：不是分类，是今天真多了东西的信号 */
+.qbar .chip.qhi{border-color:var(--accent);color:var(--accent);font-weight:600}
+.qbar .chip.qhi:hover{background:var(--accent-soft)}
+.qbar .chip.qhi.on{background:var(--accent);color:#fff}
+.qbar .qsep{width:1px;height:16px;background:var(--border);margin:0 3px}
 .frow{display:flex;align-items:flex-start;gap:12px;padding:5px 0}
 .frow+.frow{border-top:1px dashed var(--border2)}
 .flabel{
@@ -102,7 +112,7 @@ h1{font-family:var(--serif);font-size:30px;font-weight:600;line-height:1.28;lett
 .newitem b{font-weight:600}
 
 /* ---------- result bar ---------- */
-.resultbar{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12.5px;color:var(--muted);margin:0 2px 12px;flex-wrap:wrap}
+.resultbar{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12.5px;color:var(--muted);margin:0 2px 12px;flex-wrap:wrap;scroll-margin-top:96px}
 .rside{display:flex;align-items:center;gap:14px}
 
 /* ---------- cards ---------- */
@@ -236,6 +246,10 @@ footer .stamp{margin-top:10px;color:#a49d92}
   .sal{font-size:16px}
   /* 展开后 9 行在手机上仍然很高，限高让筛选区内部滚动，不把整页顶下去 */
   .fbox{max-height:58vh;overflow-y:auto;overscroll-behavior:contain}
+  /* 快捷条在窄屏折成两行会把吸顶区撑高，改成一行横滑 */
+  .qbar{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  .qbar::-webkit-scrollbar{display:none}
+  .qbar .chip{flex:0 0 auto}
   .card{padding:15px}
   .acts{width:100%;justify-content:flex-end}
   .ap,.go{padding:6px 11px}
@@ -260,6 +274,7 @@ footer .stamp{margin-top:10px;color:#a49d92}
     <span class="fbar-l"><b>筛选</b><span class="fsum" id="fsum">全部岗位</span></span>
     <span class="fbar-r" id="fbarR">展开</span>
   </button>
+  <div class="qbar" id="qbar"></div>
   <div class="fbox" id="fbox">
   <div class="frow"><span class="flabel">板块</span><div class="chips" id="rowSection"></div></div>
   <div class="frow"><span class="flabel">细分</span><div class="chips" id="rowGroup"></div></div>
@@ -319,6 +334,7 @@ footer .stamp{margin-top:10px;color:#a49d92}
   <p><b>已投递标记</b>：每张卡右下角有「标记已投递」，点一下这张卡会变灰、按钮变成 ✓，再点一次取消。标记只存在你自己浏览器的 localStorage 里，不上传、不联网，换设备或清缓存会丢。筛选项里的「只看未投递 / 只看已投递」就是按这个标记过滤的。<b>每天更新不会弄丢标记</b>：站点同时按「岗位 id」和「公司+标题」存两份，岗位换来源、合并时换了主记录导致 id 变化，也能自动认回来（页面上会提示「已自动找回 N 条」）；岗位下架后卡片不显示，但记录留在下方「我的投递记录」里，重新上架时仍然是「已投递」。</p>
   <p><b>招聘方有没有在看</b>：岗位挂着不等于有人在收简历。智联详情页里有招聘方的最后上线时间，猎聘写「X 天前在线」，本站直接读这两个字段——超过 30 天没登录的不收录（投了也是石沉大海），7 天以上的会在卡片上标出来。碰到「岗位刚发布、HR 却几十天没上来」的，多半是平台自动刷新了旧岗位。</p>
   <p><b>两个来源</b>：① 智联招聘公开招聘页，脚本每日抓取并核验；② dr.ai998.top 整理的清单，本站收录前逐条重验原链接。带“展开职责与要求”的卡片含对方整理的 JD 原文，仅供参考，投递前以原页面为准。</p>
+  <p><b>顶部那排快捷按钮</b>：筛选区收起时，横条下面那一行是常驻的——今日新增 / 少对生人 / 小而美 / 长期在招 / 已投递。点一下直接筛，再点一下取消，点完页面会跳到列表开头，不用先展开筛选再翻到「快捷」那一行。其中<b>「今日新增」按「本站第一次抓到它的那天」算，不是招聘方自己标的发布日期</b>——两者的差在于：一个新来源刚接进来的那天，会把它的存量岗一起算成「新增」（那天数字会跳一下），之后每天的数字才是真实的日增量。康强那批尤其如此，它拿不到可信发布日期（页面上那个日期是服务端按当天渲染的，翻到老的岗也是今天）。</p>
   <p><b>赛道和方向不是一回事</b>：「方向」是你进去干什么（临床研究 / 药物警戒 / 数据管理 / 注册质量 / 医学事务 / 产品 / 临床支持 / 销售…），「赛道」是这家公司在哪个行业（器械与诊断 / 医美 / 医疗AI / 数字健康 / 药企 / CRO / 医院）。同是临床支持，可能在器械厂、医美厂、AI 公司。两个筛选可以叠加，比如「赛道=医美 + 方向=产品」。</p>
   <p><b>为什么要单列「方式」</b>：方向和赛道说的都是「干什么」和「在哪干」，没说清「每天要面对谁」。同样是医疗器械公司，做注册是坐办公室写资料，做销售是天天敲陌生的门，做技术专员是进手术室站到半夜。这三件事对同一个人是完全不同的消耗，所以单独一栏：<b>后台文档</b>（对文件和数据，基本不见陌生客户）、<b>院内固定</b>（固定在一家机构，对着一小圈熟悉的人）、<b>多院外勤</b>（跑几家医院，对象是医生、不背开发指标）、<b>客户开发</b>（开发陌生客户 + 背指标 + 被考核）、<b>手术跟台</b>（进手术室，跟台次走、有射线）。你说过陌拜难、也不想跟台，那就用快捷里的「<b>少对生人</b>」——它等于后台文档 + 院内固定两类。</p>
   <p><b>「小而美」是怎么判的</b>：非大厂名单 + 平台标注 <b>100–499 人</b>。没有官方定义，只能说清口径：这一档人不多、层级少、一条业务线一两个人，学东西快、能碰到全流程。为什么下限是 100 不是 20——平台自己填的人数不可信（见过 4 个人的贸易公司标 100-999 人），几十人的皮包公司和几十人的专业小公司，在数据上分不出来，所以不往下放。标了「小而美」<b>不等于背书</b>：稳定性和大厂是反的，投之前务必问到三件事——社保按什么基数交、公司靠哪几个客户活着、上一轮融资是什么时候。人数判不出来的（外部来源很多没这个字段）一律不打标，不拿这个词当无信息的美化。</p>
@@ -558,6 +574,19 @@ chips("rowQuick", [["","不限"],
                    ["assist_ok","医助·现在能投",CNT.quick.assist_ok],
                    ["todo","只看未投递",0],
                    ["done","只看已投递",0]],"quick");
+
+/* 常驻快捷条：筛选收起来时，这一行是唯一一眼能点到的入口。
+   今日新增排第一——每天打开这个站的第一个问题就是「今天多了什么」，
+   不应该先点开筛选、再翻到「快捷」那一行才找得到。 */
+chips("qbar", [["new","今日新增",CNT.quick.new],
+               ["desk","少对生人",CNT.quick.desk],
+               ["bout","小而美",CNT.quick.bout],
+               ["long","长期在招",CNT.quick.long],
+               ["done","已投递",0]],"quick");
+{
+  const q = document.querySelector('#qbar [data-v="new"]');
+  if(q) q.classList.add("qhi");
+}
 chips("rowQuad", [["","全部"],["稳稳高薪","稳稳高薪",CNT.quad["稳稳高薪"]],
                   ["稳稳幸福","稳稳幸福",CNT.quad["稳稳幸福"]],
                   ["搏一把","搏一把",CNT.quad["搏一把"]],
@@ -652,6 +681,16 @@ function updateFsum(){
   el.textContent = t;
   el.classList.toggle("has", t !== "全部岗位");
 }
+/* 同一组 chip 现在出现在两处（筛选里一行 + 顶部常驻快捷条），
+   选中态统一按 state 重算一遍，别指望被点的那一个自己记住。 */
+function syncChips(){
+  document.querySelectorAll("[data-k]").forEach(x=>{
+    const on = state[x.dataset.k] === x.dataset.v;
+    const gold = x.dataset.k==="quick" && x.dataset.v==="big";
+    x.classList.toggle("on", on && !gold);
+    if(gold) x.classList.toggle("gold-on", on);
+  });
+}
 (function initFold(){
   const b = document.getElementById("fbar");
   if(b) b.addEventListener("click", ()=>{
@@ -686,11 +725,16 @@ document.addEventListener("click", e=>{
   const b = e.target.closest("[data-k]");
   if(!b) return;
   const k = b.dataset.k, v = b.dataset.v;
-  state[k] = v;
-  if(k==="quick" && v==="big") b.classList.add("gold-on");
+  const fromQbar = !!b.closest("#qbar");
+  /* 再点一次取消：快捷条只有一个入口，没法像筛选那样点「不限」清掉 */
+  state[k] = (k==="quick" && state.quick===v) ? "" : v;
   document.querySelectorAll(`[data-k="${k}"]`).forEach(x=>x.classList.remove("on","gold-on"));
-  b.classList.add(v==="big" ? "gold-on" : "on");
   render();
+  /* 快捷条在吸顶位置，列表可能还在屏幕外——点完直接带过去，省得再往下拖 */
+  if(fromQbar && state.quick){
+    const bar = document.querySelector(".resultbar");
+    if(bar && bar.scrollIntoView) bar.scrollIntoView({behavior:"smooth", block:"start"});
+  }
 });
 
 /* 已投递：改内存 → 直接改这张卡的 DOM（不整页重渲染，保住滚动位置和已展开的 JD）→ 落盘 */
@@ -765,8 +809,7 @@ function refreshAp(){
   const el = document.querySelector("#statAp b");
   if(el) el.textContent = n;
   const setN = (v, num)=>{
-    const c = document.querySelector(`[data-k="quick"][data-v="${v}"] .n`);
-    if(c) c.textContent = num;
+    document.querySelectorAll(`[data-k="quick"][data-v="${v}"] .n`).forEach(c=>{ c.textContent = num; });
   };
   setN("done", n);
   setN("todo", JOBS.length - n);
@@ -892,6 +935,7 @@ function longTag(j){
 }
 
 function render(){
+  syncChips();
   let rows = JOBS.filter(j=>{
     if(state.section==="campus" && !j.is_campus) return false;
     if(state.section==="fulltime" && j.is_intern) return false;
