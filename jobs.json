@@ -11288,7 +11288,13 @@
   "small": false,
   "need_lic": false,
   "lic_name": "",
-  "gate": "够一够"
+  "gate": "够一够",
+  "peer_sal": {
+   "lo": "10K",
+   "hi": "15K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "ext:8621ff6da4d6",
@@ -11356,7 +11362,13 @@
   "small": false,
   "need_lic": false,
   "lic_name": "",
-  "gate": "能进"
+  "gate": "能进",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 9,
+   "scope": "上海"
+  }
  },
  {
   "id": "ext:a1952ae3f1c7",
@@ -11490,7 +11502,13 @@
   "small": false,
   "need_lic": false,
   "lic_name": "",
-  "gate": "能进"
+  "gate": "能进",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "ext:12ec4e4535c1",
@@ -11634,7 +11652,13 @@
   "small": false,
   "need_lic": false,
   "lic_name": "",
-  "gate": "够一够"
+  "gate": "够一够",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 3,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:f60354868b7725fc0nR-3Ni7ElRY",
@@ -11698,7 +11722,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:ea78d505f4af19a91XN82dW8EFZW",
@@ -11758,7 +11788,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:24a276a90ec2eaa503172Nm9EFJS",
@@ -11815,7 +11851,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:52a645fb5fb75a340nd429S-GFNQ",
@@ -11885,7 +11927,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:466c6c86dec4d1ee0nd92d27F1JQ",
@@ -11946,7 +11994,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:6703e8b8899ba77703xz29W5FVVQ",
@@ -12010,7 +12064,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:c150817e6ebbe72c1nxy2N-1FVJW",
@@ -12076,7 +12136,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:13ab9a32d211dcf81HF52d27FlVX",
@@ -12144,7 +12210,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:3812badc4e39bf900nZ83927GFJW",
@@ -12209,7 +12281,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:eccba0ffacddfd021HVz0t-6EVJZ",
@@ -12275,7 +12353,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:957c22e78d37a89e03N439-5EVVZ",
@@ -12339,7 +12423,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:d3f7301b6523c16803V80tm4FlZT",
@@ -12403,7 +12493,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:01f28ed781a037031Xx409y8GFNR",
@@ -12474,7 +12570,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:f1ca48c76ad8b53203B529u4FVZY",
@@ -12543,7 +12645,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:73e36f401366b3e41nV40tq8GFVY",
@@ -12610,7 +12718,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:fd141501e2b9d0bc1XN939S4EVRR",
@@ -12676,7 +12790,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:08b92f826a8945cd0nVy3dm_FFJW",
@@ -12747,7 +12867,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:ff9e87a1ff81516a0nRz39q-FFVX",
@@ -12813,7 +12939,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:7d4eea867d33301203N_2dq0FVBZ",
@@ -12877,7 +13009,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:2d54c6d6c063316303J80t-1F1BS",
@@ -12941,7 +13079,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:2b4677ee2bc8dda103Z53ti5GFJU",
@@ -13004,7 +13148,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:e169484e21f683e00XB53d6_F1c~",
@@ -13065,7 +13215,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:c36ae130003a28ef0nd50tm4E1JQ",
@@ -13128,7 +13284,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:ec24ea03012b833a1HZ639W0FVNS",
@@ -13193,7 +13355,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:cc64d77a40d6b8af0nV939-0EldY",
@@ -13250,7 +13418,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:f00fd4de2de044801Xx809-1F1FS",
@@ -13312,7 +13486,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:a5a9ddfaba3f0d3b1Xdz3N--EVBQ",
@@ -13377,7 +13557,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:ffabdc67729141d703R52N6-EltZ",
@@ -13445,7 +13631,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:148d3034f82e56f01XBz2N21EVpV",
@@ -13508,7 +13700,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:ce804cf623f418ca1XN429u4FFNY",
@@ -13576,7 +13774,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:ddafe4aee9efc1d00nVz3dS0GFNW",
@@ -13636,7 +13840,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:4d1878cdb02757471Xx929i1FVBR",
@@ -13704,7 +13914,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:2c66938e540bbff11nR83Nm0FltZ",
@@ -13768,7 +13984,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:b5ac3ed0c7af67cf1Xdy2tW5FFRU",
@@ -13834,7 +14056,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:6fc1d767b38588481nV83tu-ElQ~",
@@ -13900,7 +14128,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:8718629c81cc22220nR639W-ElNZ",
@@ -13957,7 +14191,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:d1dac6207e865d3c0nZ_3N27E1BQ",
@@ -14019,7 +14259,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:218103b1c481f2871XBy3tS8FltX",
@@ -14085,7 +14331,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:79608ad2daff98ce03dy3N21FVVR",
@@ -14154,7 +14406,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:289f132d580275341HJ_39y1GFo~",
@@ -14224,7 +14482,13 @@
   "assist": true,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:a29a435cbb149a4c1HJ_3dq0FFNW",
@@ -14292,7 +14556,13 @@
   "assist": true,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:8f707b89979435440XBy0964EVc~",
@@ -14358,7 +14628,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:703411557f36f4ac03d_0tu6ElBX",
@@ -14428,7 +14704,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:7e04c2d8409914bd0nd509i5FVJV",
@@ -14492,7 +14774,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:3ef813a4e0fd34d31HZ-3tq0FlJW",
@@ -14557,7 +14845,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:852927701477eb171H173Nq1EFZZ",
@@ -14627,7 +14921,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:1ac3a0998e5057061nJ_3dW6E1dY",
@@ -14695,7 +14995,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:bd3365679d8c15f31nR_2t-9F1BX",
@@ -14774,7 +15080,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:ca00bfe118a5e41a03B82t60GVZW",
@@ -14843,7 +15155,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:6806ac4db075b01b0nd70tW7EFpV",
@@ -14913,7 +15231,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:486dfa09ab2340d81HB-3dW8FFNU",
@@ -14984,7 +15308,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:d5160075cee3498303F92di4EVRT",
@@ -15061,7 +15391,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:a049da471e83a6530nZ70tS0ElVR",
@@ -15131,7 +15467,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:e21802c546bd5ca40nd-3t27GFRX",
@@ -15188,7 +15530,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:31832405b4a78b251nFz3dm-FFdQ",
@@ -15265,7 +15613,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:c91f7058005cfe551nV-09i1F1VT",
@@ -15329,7 +15683,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:3f979b8c994d87b41HBz29W4E1tW",
@@ -15398,7 +15758,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:19d79a14f6d03a1c1nJ72d61ElVY",
@@ -15460,7 +15826,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:ef4a1518abef25530nN909W0E1U~",
@@ -15520,7 +15892,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:dbd3e8df9b3944f01nN73d24F1BQ",
@@ -15587,7 +15965,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:39c4a712622521600nZ72N6_F1NY",
@@ -15661,7 +16045,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:d1c8c914c49f12aa1nN-3N27E1FS",
@@ -15733,7 +16123,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:527d0fa2a3f6589b1H1_2ti4GFVX",
@@ -15795,7 +16191,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:f392c7879798d1c50nV539-4F1RT",
@@ -15874,7 +16276,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:e953803a945271d60nRy3dq4FFFX",
@@ -15939,7 +16347,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:a42f1896f61b3d9b1HN63Nq6ElNT",
@@ -16008,7 +16422,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:0f22d2b9ce62a4181nJy2tS0ElJT",
@@ -16076,7 +16496,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:16cda91a5060b6150nZ_3t64FVJY",
@@ -16140,7 +16566,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:e51b46066e86b1400nRz0tm4FVpQ",
@@ -16197,7 +16629,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:d0d74ee99ff2e1bb031-0t6_FFpR",
@@ -16270,7 +16708,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:39e987a7f75148391Hd52du6FFFZ",
@@ -16339,7 +16783,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:2e72076fe9869dfe0nR92dm8EFJU",
@@ -16412,7 +16862,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:33b85723171bc5560nV-2ty6EVRQ",
@@ -16485,7 +16941,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:9512d10b9d5ebc59031_39q0FFdY",
@@ -16554,7 +17016,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:6c66cac721af526003Ny3926E1RS",
@@ -16620,7 +17088,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:0d377d4854ce031703N629i_FVpY",
@@ -16692,7 +17166,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:cd557d9fa11e43420nZ_09m6E1dX",
@@ -16758,7 +17238,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:93bf8d10ffe30ac4031809i_FlJY",
@@ -16822,7 +17308,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:299283d641111fca03d60tu0FldX",
@@ -16886,7 +17378,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:40a6894ac1b586a803d439S7FFVV",
@@ -16958,7 +17456,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:02b5060714360f1003Jz2N-_GFRS",
@@ -17026,7 +17530,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:108476a235c9ccb103Z43969F1RV",
@@ -17097,7 +17607,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:efe17be6d3eeae9b1XN43NS5E1BQ",
@@ -17165,7 +17681,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:dc300e7551c14d851XJ_2NW1F1tR",
@@ -17228,7 +17750,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:79898b3fb12a15c103d73NS_EVZR",
@@ -17288,7 +17816,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:3f3236819f03b11f1HV72t20E1BU",
@@ -17354,7 +17888,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:1a2dd69c7933c6421XB-2tW0FVFY",
@@ -17423,7 +17963,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:d07019db9ef440371Hd_0tq7FlBS",
@@ -17491,7 +18037,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:f13c77d078f553300nZ52t21ElVQ",
@@ -17557,7 +18109,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:08b40fa0d8ceaae21n142tq1FlJZ",
@@ -17630,7 +18188,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:96d879f2c53e4e480nV83dq0GFJQ",
@@ -17691,7 +18255,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:aae69ad07977c3d01Xx73d2_GVBR",
@@ -17762,7 +18332,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:5cf2b55a3ad112450nZ52dm1FVVZ",
@@ -17834,7 +18410,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:53c3a61ef15158450nZ63NS8F1dZ",
@@ -17902,7 +18484,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:41f01749687c1df91H153t69E1ZU",
@@ -17971,7 +18559,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:9821e5ddd0a614fc1H1z29W0FVdX",
@@ -18041,7 +18635,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:f857c68fcb8068310nd_29i1ElNQ",
@@ -18104,7 +18704,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:48535bf9a7e4ed141Xd93tu4FVZT",
@@ -18165,7 +18771,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:dc083a292db3b6930nd82t-4FVZW",
@@ -18222,7 +18834,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:0f82cc615bfa637603x_39y7E1tW",
@@ -18294,7 +18912,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:b5d88e417fb354b403Jy2tm4E1tQ",
@@ -18356,7 +18980,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:eab1f9185b95a32d03N52Nu7FFJS",
@@ -18426,7 +19056,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:8a4d3abda01fca6c03B53dW7FlBQ",
@@ -18498,7 +19134,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:7fe59107d24fe72a031-3tS5FVBT",
@@ -18562,7 +19204,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:7d1f3ea5fd62264e0nR63ti5F1ZR",
@@ -18629,7 +19277,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:86331621e2205df50nRy2t6-ElZX",
@@ -18696,7 +19350,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:99b72aae70725eca1HF939u6EVFR",
@@ -18764,7 +19424,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:6306f2aaaf345e081HR429q0E1NS",
@@ -18837,7 +19503,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:a296c49849442f861nF-2Ni7EVtW",
@@ -18904,7 +19576,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:61332407031010421HR439-7GVBV",
@@ -18972,7 +19650,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:10073d1f6690e9970nd_29-4EFdS",
@@ -19036,7 +19720,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:f656d35b199d55d80nx709S0FVRY",
@@ -19105,7 +19795,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:aca17bfa4596a42d03Z43926EVRU",
@@ -19169,7 +19865,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:90e283b3b77732fb0nV42Nm7EFdY",
@@ -19236,7 +19938,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:3f73feef05f9145c1HZ-3dy0F1JW",
@@ -19302,7 +20010,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:af088b6652e917e30nR-2N2_FVdS",
@@ -19368,7 +20082,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "13.5K",
+   "n": 8,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:61a17efba724f2f6031_3d28EVtZ",
@@ -19436,7 +20156,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:c79137af5d4f7dfa1Hd73Ni_EldY",
@@ -19503,7 +20229,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:655215317f43b9501XVz2ty4EFFX",
@@ -19569,7 +20301,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:c14ecd18a50160d6031509W7ElFY",
@@ -19633,7 +20371,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:1d7e43df14e0b61803F43tu_FltT",
@@ -19698,7 +20442,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:f9e4dcba47b33aae1HB639u-E1dX",
@@ -19764,7 +20514,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:74feaf403516d2d40nZ-3NS0EFdV",
@@ -19828,7 +20584,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:0515403b20c2ca790nRz3d25FFBX",
@@ -19888,7 +20650,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:8868e0bff0f441000nV_3NW7FVdV",
@@ -19955,7 +20723,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:a414b5c00ef81b471Hx-0t-_F1FV",
@@ -20021,7 +20795,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:f03b28ae6ace087a0nR40960ElFV",
@@ -20093,7 +20873,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:eb20a84172b452d033V-09-_EFA~",
@@ -20162,7 +20948,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:f4177098edac93c51nB509m5GVpX",
@@ -20231,7 +21023,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:ad2aa824b7ed4ae41XJ63ty8EFJT",
@@ -20298,7 +21096,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 28,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:7a0dc8c1cce2734b0nV92t-_F1ZS",
@@ -20887,7 +21691,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "9.5K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:1bc65d9710e565381Xx92NS9E1RS",
@@ -21020,7 +21830,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:7eeb10c4f0666acc1HJ93dW_EVFR",
@@ -21159,7 +21975,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:a3f38ccabe4389041Xdy3tu1GFJT",
@@ -21231,7 +22053,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:a93efff50ca08e9b1X1y2di8EVZT",
@@ -22129,7 +22957,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:f3daf3b5b2cc3fe40nd-0t66GVVX",
@@ -22199,7 +23033,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:7d8ed25618cb11fd1n153t26FVdQ",
@@ -22272,7 +23112,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:9ba9a1c08c44a9f51XF_2tu4EVFT",
@@ -22336,7 +23182,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:b4e8be6a4a9afb911nV_3NW8ElJW",
@@ -22405,7 +23257,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:44368a14a2f0160c0nd72di-GVtT",
@@ -22477,7 +23335,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:7640c7889e1c21a70nV43du8F1BU",
@@ -22542,7 +23406,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:60eb73a9148ec3c10nVy39u7FVRQ",
@@ -22615,7 +23485,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:b00951dfee9b39621HN62dS7GVpS",
@@ -22681,7 +23557,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:43479b7e8432bf0203F939S6FFpY",
@@ -22753,7 +23635,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:c15c96a3e5cdaa6103Ny09q_FVFR",
@@ -22827,7 +23715,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:3895e2be107777c603F70tS5FFJR",
@@ -22904,7 +23798,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:57be66b53bdedad20nR_3dW1GFRY",
@@ -22968,7 +23868,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:c550a7507e912b161XB-39S9GVBX",
@@ -23043,7 +23949,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "13K",
+   "n": 5,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:8af1ccbc59c5839b03Z62du6EltU",
@@ -23113,7 +24025,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:2f6fe7b25c770168031829-8GFZS",
@@ -23186,7 +24104,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:0ae2782a63c536110nZ83t24FFtR",
@@ -23250,7 +24174,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:75902db4ce0463710nR90tm_ElpY",
@@ -23321,7 +24251,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:c1552f692a54831803Zz2N--GVBR",
@@ -23393,7 +24329,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:a94fae5f757b5cb61X192ty7GFpS",
@@ -23465,7 +24407,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:d7f4b8d547a4e9c61HJ72dS-EVZW",
@@ -23529,7 +24477,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:91583014a063bf731XFz3dW8E1FV",
@@ -23604,7 +24558,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:355a52573ce057bb0nV40964EFNX",
@@ -23674,7 +24634,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:273ee8c105f04edf1HF_3tW4ElBR",
@@ -23740,7 +24706,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:a2b28ca0dbdf77720nRy2965EVRZ",
@@ -23812,7 +24784,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:7ed7e9b57941f4bc1HZ639i8EFNQ",
@@ -23881,7 +24859,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:71d84904b0447dae1nR809i1FVBV",
@@ -23950,7 +24934,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:7ff7aaef12fa47a703d92tm5FlNR",
@@ -24021,7 +25011,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "10K",
+   "n": 6,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:f889b5b0280ba5a20nZ42d64GFVY",
@@ -24094,7 +25090,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:9481996c18a31cb11nR42dq1GFZW",
@@ -24162,7 +25164,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:a3e2d839c74f874203Fy39u1FVtS",
@@ -24237,7 +25245,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:495a6f7e3011269e0nd42ty7GVZV",
@@ -24309,7 +25323,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:bfae450188ad1f6c1HRz0965FldZ",
@@ -24383,7 +25403,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:006b62813fd261721XF90tq5FFBY",
@@ -24456,7 +25482,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:c6ba67eed7365e391Xxz3NW7F1ZY",
@@ -24521,7 +25553,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:d66c1461c7cd0e441XV83d66FVZS",
@@ -24590,7 +25628,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:3c7e1ca6c9b616681Hd92Nm6FVFV",
@@ -24658,7 +25702,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:4177d89faeb37c1a1nVz3ti1FVJU",
@@ -24724,7 +25774,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:1841b717c46f7a2e33Z-2tu4ElM~",
@@ -24787,7 +25843,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:39b84de1a1c8890d03Z539u4FVdQ",
@@ -24861,7 +25923,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:77d35c184e7650890nR609m6ElJT",
@@ -24936,7 +26004,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:dedbfad0eda293511X1929S9EVtY",
@@ -24996,7 +26070,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:b69f045f4ef879dc1nBy09i8FVtV",
@@ -25058,7 +26138,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7K",
+   "hi": "10K",
+   "n": 18,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:c8635d714be0a2d31XJ-2t2_FVRR",
@@ -25124,7 +26210,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:e4d91f5dd0b67e4b1X1z2N-9EldY",
@@ -25198,7 +26290,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:0ccef3031c2e16cf1HF42du-GVRR",
@@ -25272,7 +26370,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:896c5bb0e97c9ade0nZ80tu7GVtX",
@@ -25336,7 +26440,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:c7f4edcdbb10f58003J-3d-4F1FY",
@@ -25405,7 +26515,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:d8dd5d64c8d9e60b1nFy2ty5FFBU",
@@ -25473,7 +26589,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:da43dc51f73975d01nVz2ty0FVZT",
@@ -25539,7 +26661,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:e62a60b3cdf2510e0HV_0ti6FlU~",
@@ -25608,7 +26736,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:d598eff9102d04661XJ72924FlpU",
@@ -25683,7 +26817,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:1d2a14654c8d3b4a0HR72N66Flo~",
@@ -25746,7 +26886,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:4cd5b1a26b8a471a1Hx-2N68ElpS",
@@ -25809,7 +26955,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:9b4c581d470018ba0nV629y4GVFR",
@@ -25880,7 +27032,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6.5K",
+   "hi": "12K",
+   "n": 4,
+   "scope": "绍兴"
+  }
  },
  {
   "id": "bz:6a581b18aabf21c403xz3dq9EFZU",
@@ -25953,7 +27111,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:3036d6f46f4ccb2903d-29m4FVNX",
@@ -26010,7 +27174,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:ed0848cedc5f70d01HN_2N6_ElFT",
@@ -26074,7 +27244,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:a6cf944ad5ab5649031-3tu9FFtQ",
@@ -26208,7 +27384,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:ba36f9fecfe7c1b31HF929S5GVdX",
@@ -26274,7 +27456,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:6aec1f6a55b5746a1XR50t-8GFRT",
@@ -26341,7 +27529,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:da3053f343e5545003R929-6GFBX",
@@ -26408,7 +27602,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:ea42bc2528d8209603R-3t-8FVVV",
@@ -26475,7 +27675,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:dcaf654d2859748a1XV40961EFJZ",
@@ -26537,7 +27743,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:6d3c8581f057daa21H162dS4FlRZ",
@@ -26603,7 +27815,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:ac7da8c392cb877a0nV-2ty1GVFX",
@@ -26671,7 +27889,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:4227ce64e7e6afbb1Hx709W9E1BQ",
@@ -26744,7 +27968,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:c5dd8efd51fe60201HFy3tW1GVVZ",
@@ -26813,7 +28043,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:b7490504178706301HFy3NW7E1ZR",
@@ -26875,7 +28111,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:291d930e06a143af1XZ62ti7ElRX",
@@ -26938,7 +28180,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:35a5c336e44192ca0nV73dm6EVZW",
@@ -27002,7 +28250,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:35b4a387f15853100nZ90tm0F1tY",
@@ -27071,7 +28325,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:8332803c419b8fc51n163di_GVpT",
@@ -27130,7 +28390,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:026b04cc86e2fd251HJ629i9E1FQ",
@@ -27198,7 +28464,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:c8fb1498871faef60nR43N-1FlFV",
@@ -27271,7 +28543,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "12K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:c85045912b1deb5a0nZ92Nq1EFZT",
@@ -29177,7 +30455,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:02dbf9ca3176f8c20nZ60ti7EFdZ",
@@ -29693,7 +30977,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:e1d2d6cb1164878d1HR42929E1pW",
@@ -30287,7 +31577,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:cc33613e3fcb9e6d03N-39i7ElNY",
@@ -30412,7 +31708,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:4bc1d40a31ab1e780nR_29S6FVtS",
@@ -30541,7 +31843,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:098139465b7bbcb71HJ609-5GFJR",
@@ -30662,7 +31970,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:bcc05ba260254dff1XJy2di9FFdQ",
@@ -30734,7 +32048,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 5,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:64d3d67e85cbcf9a1HZ83dW7EVZV",
@@ -30809,7 +32129,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "10K",
+   "n": 5,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:f73e6e1803a69a0f03J90t28FFZY",
@@ -30875,7 +32201,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "12K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:5011f7f542a3a4220nZ83Nu-FVZY",
@@ -30941,7 +32273,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "6K",
+   "hi": "12K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:c0c4b1da4f7c275e1Xx439W7FVBY",
@@ -31009,7 +32347,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:c31c9a61189729670nd82tq8FFRX",
@@ -31286,7 +32630,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "9K",
+   "hi": "14K",
+   "n": 9,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:9340b9e3c30b62990nd72Ny0EFVV",
@@ -31473,7 +32823,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:dab300affbb7bf9203N80ty5GVtX",
@@ -31537,7 +32893,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:3165f9fe11ae72261nZ63Ny4FlNV",
@@ -31616,7 +32978,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:787d3fba63a4f4b41HR53di-ElNX",
@@ -31683,7 +33051,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:225b56800ecc37e41HJ62tW7E1tX",
@@ -31752,7 +33126,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:db59122a919a8adc0nZ-3tu-GFJZ",
@@ -31818,7 +33198,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:ec4d6b2a5d3125d703d-39q1EFpW",
@@ -31882,7 +33268,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:4639c685ff21810b1Xd-3t-8FFpS",
@@ -31950,7 +33342,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:2ab2e4d4955b8a260nd82N2_EVZX",
@@ -32014,7 +33412,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:5b478c5802b717290nZ42N-7F1BT",
@@ -32078,7 +33482,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:323fb8a334e9222103V42ty-FFZU",
@@ -32142,7 +33552,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:6d41af93c375f6f10nZ_29-8FVFX",
@@ -32206,7 +33622,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "8K",
+   "hi": "12K",
+   "n": 19,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:fdffb5e6e355916f03B50t--EFBR",
@@ -32267,7 +33689,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:ca9c87768d26774803192d-1E1NU",
@@ -32331,7 +33759,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:4a78eac449fb60bb0nZ70tu5F1RR",
@@ -32402,7 +33836,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:120084182f7d722e0nR_3d60GFdV",
@@ -32464,7 +33904,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:543f6d4ab7cd1ebb03V-3Nu8E1NT",
@@ -32533,7 +33979,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:426dee3003f4a0701HJ52920EVNY",
@@ -32600,7 +34052,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:799dd32a289a488003J82NS_FlRV",
@@ -32664,7 +34122,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:7124c7990d21f7b80nZ73di5GFFT",
@@ -32728,7 +34192,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "7.5K",
+   "hi": "12.5K",
+   "n": 4,
+   "scope": "上海"
+  }
  },
  {
   "id": "bz:2b3efefd0580ea831HN639i8FFpY",
@@ -32792,7 +34262,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:27667599dc6fad010nZ-3N68EFRU",
@@ -32864,7 +34340,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:967a12893515837c03dz09i7F1dQ",
@@ -32934,7 +34416,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:8cb3f13b723ce9ba03Z42t2_GFZX",
@@ -33001,7 +34489,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:4147c417fc6c5ea003J73t21E1BX",
@@ -33068,7 +34562,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:3b91b403c9bd79881X1y2t61EFFW",
@@ -33135,7 +34635,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:faca79ea7248abcb03d92dq4ElRV",
@@ -33197,7 +34703,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:ed0b78deda7ebcf20nR429-8EVNX",
@@ -33261,7 +34773,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:c5193d024a8b40fd0nZ409q_EFNY",
@@ -33331,7 +34849,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:74f2752b37fa737a03172Nm0E1tY",
@@ -33399,7 +34923,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4.5K",
+   "hi": "6.5K",
+   "n": 4,
+   "scope": "杭州"
+  }
  },
  {
   "id": "bz:b1c7bf26e60826560nVz0tW-ElRU",
@@ -33463,7 +34993,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:3d362488e909b8861X140tW0FFtY",
@@ -33535,7 +35071,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:8a06ec903cdb76a01XB73dy1FVdZ",
@@ -33602,7 +35144,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:a5b7f44f139739d003B72t-_EVtR",
@@ -33678,7 +35226,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:7b8800a99711633d0nRz3tm4FlRS",
@@ -33753,7 +35307,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:a3a52ffdbe39dbb41HJ73Nm8GVNZ",
@@ -33823,7 +35383,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "5K",
+   "n": 3,
+   "scope": "宁波"
+  }
  },
  {
   "id": "bz:8ca374ce755790f703J62tW8FFdQ",
@@ -33889,7 +35455,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:8e97c0de627ee3a31HB-2dq1GFJW",
@@ -33955,7 +35527,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:03097a939bd23f931HFy3tq4EFRQ",
@@ -34021,7 +35599,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:684be750fa8788d10nd63d64F1JZ",
@@ -34087,7 +35671,13 @@
   "assist": false,
   "small": true,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:ba98ffa46a3994431XVy3d29FlFT",
@@ -34152,7 +35742,13 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  },
  {
   "id": "bz:9b62f99491b51b690nZy2N25FFZY",
@@ -34220,6 +35816,12 @@
   "assist": false,
   "small": false,
   "need_lic": false,
-  "lic_name": ""
+  "lic_name": "",
+  "peer_sal": {
+   "lo": "4K",
+   "hi": "8K",
+   "n": 15,
+   "scope": "全国"
+  }
  }
 ]
