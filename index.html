@@ -136,6 +136,9 @@ h1{font-family:var(--serif);font-size:30px;font-weight:600;line-height:1.28;lett
 .badge.bf{background:#eef2f7;color:#4a6b8a;border:1px solid #dbe4ee}
 /* 平台标了硕士、但实际是执行层岗：说清楚为什么放进来，别让人以为是漏网 */
 .badge.relax{background:#fbf3e6;color:#8a6a2f;border:1px solid #efdfc2}
+/* 今日才收录、但原页面早就发了的老岗：不能标「今日新增」，那是在骗人。
+   换成发布日期，一眼看出它挂多久了 */
+.badge.old{background:#f4f1ea;color:#7a7266;border:1px solid #e5dfd2;font-weight:500}
 .why2{margin-top:4px;color:var(--muted);font-size:12.5px;line-height:1.6}
 .tt{font-family:var(--serif);font-size:17.5px;font-weight:600;line-height:1.4;color:var(--text)}
 .sal{font-size:17px;font-weight:700;color:#a8342a;white-space:nowrap;font-variant-numeric:tabular-nums;letter-spacing:-.2px}
@@ -350,7 +353,7 @@ footer .stamp{margin-top:10px;color:#a49d92}
   <p><b>已投递标记</b>：每张卡右下角有「标记已投递」，点一下这张卡会变灰、按钮变成 ✓，再点一次取消。标记只存在你自己浏览器的 localStorage 里，不上传、不联网，换设备或清缓存会丢。筛选项里的「只看未投递 / 只看已投递」就是按这个标记过滤的。<b>每天更新不会弄丢标记</b>：站点同时按「岗位 id」和「公司+标题」存两份，岗位换来源、合并时换了主记录导致 id 变化，也能自动认回来（页面上会提示「已自动找回 N 条」）；岗位下架后卡片不显示，但记录留在下方「我的投递记录」里，重新上架时仍然是「已投递」。</p>
   <p><b>招聘方有没有在看</b>：岗位挂着不等于有人在收简历。智联详情页里有招聘方的最后上线时间，猎聘写「X 天前在线」，本站直接读这两个字段——超过 30 天没登录的不收录（投了也是石沉大海），7 天以上的会在卡片上标出来。碰到「岗位刚发布、HR 却几十天没上来」的，多半是平台自动刷新了旧岗位。</p>
   <p><b>来源有哪几家</b>：① 智联招聘公开招聘页，脚本每日抓取并核验；② dr.ai998.top 整理的清单，本站收录前逐条重验原链接；③ 康强医疗人才网，只取它公开列表；④ <b>BOSS 直聘</b>，匿名访问公开搜索页、按「关键词×城市」横向收，抓不到薪资和发布日期（见下方专门说明）。带“展开职责与要求”的卡片含对方整理的 JD 原文，仅供参考，投递前以原页面为准。</p>
-  <p><b>顶部那排快捷按钮</b>：筛选区收起时，横条下面那一行是常驻的——今日新增 / 未投递 / BOSS直聘 / 少对生人 / 不陌拜 / 跨行业 / 小而美 / 已投递。<b>这些按钮可以同时点亮好几个</b>：同一条横线里的条件取并集，不同横线之间叠加。比如「今日新增」＋「未投递」＝今天新来的、我还没投的；「BOSS直聘」＋「不陌拜」＝BOSS 上不用开发陌生客户的岗。点一下选中，再点一次取消，「已投递 / 未投递」互斥（选一个会把另一个拿掉）。点完页面会跳到列表开头，不用先展开筛选。其中<b>「今日新增」按「本站第一次抓到它的那天」算，不是招聘方自己标的发布日期</b>——两者的差在于：一个新来源刚接进来的那天，会把它的存量岗一起算成「新增」（那天数字会跳一下），之后每天的数字才是真实的日增量。康强和 BOSS 这两批尤其如此，它们都拿不到可信的发布日期。</p>
+  <p><b>顶部那排快捷按钮</b>：筛选区收起时，横条下面那一行是常驻的——今日新增 / 未投递 / BOSS直聘 / 少对生人 / 不陌拜 / 跨行业 / 小而美 / 已投递。<b>这些按钮可以同时点亮好几个</b>：同一条横线里的条件取并集，不同横线之间叠加。比如「今日新增」＋「未投递」＝今天新来的、我还没投的；「BOSS直聘」＋「不陌拜」＝BOSS 上不用开发陌生客户的岗。点一下选中，再点一次取消，「已投递 / 未投递」互斥（选一个会把另一个拿掉）。点完页面会跳到列表开头，不用先展开筛选。其中<b>「今日新增」按「本站第一次抓到它的那天」算，不是招聘方自己标的发布日期</b>——所以里面会混进老岗：4 月发布、10 月才被扫到的也有。<b>为什么现在才扫到，三个原因</b>：① 城市轮转——嘉兴是 10 月 31 日才第一次跑，那天 14 条全是它，不是它那天新发了 14 个岗；② 关键词扩展——「临床营养 / 体检中心 / 医学支持 / 健康顾问」这些词是后来才加进抓取表的，用旧词搜不到的老岗，加词那天才浮出来；③ 外部源按相关度搜、不按时间排——猎聘搜出来的第一条可能挂着半年了。<b>想只看真的刚发</b>：点<b>「近7天发布」</b>，那只收原页面发布日期在 7 天内的岗；BOSS 和康强不给发布日期，一律不进这一档，所以那个数字会比「今日新增」小很多，这是对的，不是漏了。卡片上凡是「今日才收录」的灰色标签，都在标题上方直接写了它原来的发布日——看到就说明它是老岗，不是今天新出的。</p>
   <p><b>BOSS 直聘这批是怎么进来的，哪些信息不全</b>：用真实 Chrome 匿名打开搜索页，再在页面里连发它的搜索接口，不登录、不碰你的账号。匿名能看到的比登录少三样，页面上一律如实标：<b>① 薪资被隐藏</b>（列表接口的 salaryDesc、详情接口的 salaryDesc、详情页本身，三处全是空的，页面上连一个数字都不渲染），所以这类岗写「未公开」而不是「面议」——面议是招聘方的选择，未公开是平台对我们隐藏；<b>② 每个查询只能看到第一页 15 条</b>（翻第 2 页服务端直接返回空），覆盖面靠「多查询词 × 多城市」铺开，不是翻到底；<b>③ 列表没有发布日期</b>，所以不参与「长期在招」的判断。反过来，<b>它在列表里出现就等于在招</b>，比智联的 jobStatus 更直接。</p>
   <p><b>「未公开」下面那行小字是什么</b>：那<b>不是这个岗位的薪资</b>，是本站其他来源（智联、康强、外部清单）里<b>同类岗位的中位数</b>——同类＝同一个细分方向（例如都是「临床研究」），优先取同城样本，同城不足 3 条才退到全国、不足 5 条就干脆不显示。取到 500 元，写明样本量和范围（「上海 5 条」或「全国 12 条」），一眼能看出这个数有多可信。为什么值得做：BOSS 把数字藏了，但一个岗位贵还是便宜，同类岗的真实薪资能说明八成。<b>要点进去谈的是这个岗自己的价，不是这个区间。</b></p>
   <p><b>「板块」为什么要分医疗和跨行业</b>：医疗那批是「专业对口」，跨行业那批不是——美妆功效评价、第三方检测、直播运营、内容剪辑、服装买手/跟单。你要的原话是「只要有兴趣的、有发展前景的、履历能进或者努努力能上的都可以」，所以这一栏收的不是「所有非医疗岗」，而是过三道筛的：<b>① 有兴趣</b>（就这五族，别的不收）；<b>② 有前景</b>（门店服务、出镜主播、纯销售、要科班作品的设计师，一律不收，因为它们没有下一步）；<b>③ 够得着</b>（门槛分「能进」和「够一够」两档，现在进不去的直接不出现在列表里）。跨行业岗不标「匹配度」——专业本来就不对口，标个低分只会误导；它们标的是<b>门槛</b>。</p>
@@ -574,6 +577,11 @@ const CNT = {
     sal_known:JOBS.filter(j=>j.salary_min!==null).length,
     deskfit:JOBS.filter(j=>(j.style==="后台文档"||j.style==="院内固定")&&j.fit==="高").length,
     bout:JOBS.filter(j=>j.boutique).length,
+    /* 真·新发布：原页面发布日期在 7 天内。BOSS/康强拿不到发布日期，一律不进这一档——
+       宁可少算，也不把「不知道多久前发的」当成「刚发的」 */
+    fresh:JOBS.filter(j=>j.age_days!=null&&j.age_days<=7).length,
+    /* 「今日新增」里其实是老岗、本站今天才收录的那部分。和 fresh 相减就是真日增量 */
+    oldnew:JOBS.filter(j=>j.first_seen===STATS.iso&&j.age_days!=null&&j.age_days>7).length,
     /* 长期在招：挂了 60 天还没招满。三种可能见页脚说明 */
     long:JOBS.filter(j=>(j.age_days||0)>=60).length,
     longx:JOBS.filter(j=>(j.age_days||0)>=180).length
@@ -633,7 +641,8 @@ chips("rowQuick", [["","不限"],
                    ["bout","小而美",CNT.quick.bout],
                    ["long","长期在招",CNT.quick.long],
                    ["fit","匹配我的简历",CNT.quick.fit],["big","只看大厂",CNT.quick.big],
-                   ["new","今日新增",CNT.quick.new],["hr","HR 7天内上线",CNT.quick.hr],
+                   ["new","今日新增",CNT.quick.new],["fresh","近7天发布",CNT.quick.fresh],
+                   ["hr","HR 7天内上线",CNT.quick.hr],
                    ["high","月薪≥10K",CNT.quick.high],["assist","医助岗",CNT.quick.assist],
                    ["assist_ok","医助·现在能投",CNT.quick.assist_ok],
                    ["coldsafe","不陌拜",CNT.quick.coldsafe],
@@ -652,6 +661,7 @@ chips("rowQuick", [["","不限"],
      走同一个点击处理器和同一套选中态同步。 */
   const items = [
     ["quick", "new",      "今日新增",  CNT.quick.new],
+    ["quick", "fresh",    "近7天发布", CNT.quick.fresh],
     ["quick", "todo",     "未投递",    0],
     ["site",  "BOSS直聘", "BOSS直聘",  CNT.site["BOSS直聘"]||0],
     ["quick", "desk",     "少对生人",  CNT.quick.desk],
@@ -719,6 +729,9 @@ function drawViz(){
     </div>
     <div class="vsec"><h3>今日新增（${STATS.new_today} 岗）</h3>
       ${news.length?`<div class="newlist">${news.map(j=>`<span class="newitem"><b>${esc(j.company.slice(0,10))}</b> · ${esc(j.salary_display)}</span>`).join("")}</div>`:'<div style="font-size:12.5px;color:var(--muted)">今天没有新增岗位。</div>'}
+      <div style="font-size:11.5px;color:var(--muted);margin-top:8px;line-height:1.7">${CNT.quick.oldnew
+        ? `这 ${STATS.new_today} 条里，<b>${CNT.quick.oldnew} 条是老岗今天才扫到</b>（卡片上标了原发布日），其余是今天真新发或来源不给发布日。只想要刚发的，点上面<b>「近7天发布」</b>（${CNT.quick.fresh} 条）。`
+        : `都是今天真新发或来源不给发布日的。想再收紧，点上面<b>「近7天发布」</b>（${CNT.quick.fresh} 条）。`}</div>
     </div>`;
 }
 
@@ -741,7 +754,8 @@ function setFold(open, persist){
 }
 const QUICK_NAME = {desk:"少对生人",deskfit:"少对生人·匹配高",bout:"小而美",long:"长期在招",
   coldsafe:"不陌拜",relax:"标硕士·本科可试",sal_known:"有明确薪资",
-  fit:"匹配我的简历",big:"只看大厂",new:"今日新增",hr:"HR 7天内上线",high:"月薪≥10K",
+  fit:"匹配我的简历",big:"只看大厂",new:"今日新增",fresh:"近7天发布",
+  hr:"HR 7天内上线",high:"月薪≥10K",
   assist:"医助岗",assist_ok:"医助·现在能投",todo:"只看未投递",done:"只看已投递"};
 const SECTION_NAME = {campus:"校招应届", fulltime:"全职", intern:"实习"};
 const BOARD_NAME = {"医疗":"医疗健康", "跨行业":"跨行业"};
@@ -1005,6 +1019,23 @@ function sorter(){  const s = state.sort;
 }
 const SORTDESC = {rec:"按 综合推荐（先看匹配度，再看大厂）",salary:"按 薪资从高到低",tier:"按 公司档次",fresher:"按 应届友好度",old:"按 原页面挂出天数（久的在前）"};
 
+/* 「今天第一次抓到」和「今天刚发布」是两件事，别混成一个绿色标签。
+   - 有发布日且 7 天内 → 今日新增
+   - 有发布日但更早     → 直接显示发布日期 +「今日才收录」，并说明为什么现在才扫到
+   - 拿不到发布日       → 今日收录（BOSS / 康强都不给日期，不装作知道） */
+function newBadge(j){
+  if(j.first_seen!==STATS.iso) return "";
+  const d = j.age_days;
+  if(d==null){
+    return `<span class="badge new" title="本站今天第一次扫到它。${esc(j.source||"这个来源")}不提供发布日期，无从判断它已经挂了多久">今日收录</span>`;
+  }
+  if(d<=7){
+    return `<span class="badge new" title="原页面 ${esc(j.posted_at||"")} 发布，${d} 天前">今日新增</span>`;
+  }
+  const md = (j.posted_at||"").slice(5).replace("-","/").replace("/","月")+"日";
+  return `<span class="badge old" title="原页面 ${esc(j.posted_at||"")} 发布，到今天 ${d} 天。它不是新发的，是本站今天才第一次扫到：城市轮转、关键词扩展、或这个来源今天才轮到它">${md}发布 · 今日才收录</span>`;
+}
+
 function jdBlock(j){
   const has = (j.duties&&j.duties.length)||(j.requirements&&j.requirements.length)||
               (j.benefits&&j.benefits.length)||(j.comment)||(j.warnings&&j.warnings.length);
@@ -1072,6 +1103,9 @@ function render(){
       if(q==="bout" && !j.boutique) return false;
       if(q==="fit" && j.fit!=="高") return false;
       if(q==="new" && j.first_seen!==STATS.iso) return false;
+      /* 只在原页面发布日期可信时才算「近7天」。age_days 为 null 的来源（BOSS、康强）
+         拿不到发布日，不能默认它新，宁可漏掉也不虚增 */
+      if(q==="fresh" && !(j.age_days!=null && j.age_days<=7)) return false;
       if(q==="big" && !j.is_big) return false;
       if(q==="hr" && !(j.hr_active_days!=null && j.hr_active_days<=7)) return false;
       if(q==="high" && (j.salary_min===null||j.salary_min<10000)) return false;
@@ -1100,14 +1134,14 @@ function render(){
     return;
   }
   document.getElementById("list").innerHTML = rows.map(j=>`
-    <article class="card ${j.first_seen===STATS.iso?"isnew":""} ${APPLIED[j.id]?"is-applied":""}" data-id="${esc(j.id)}">
+    <article class="card ${j.first_seen===STATS.iso&&(j.age_days==null||j.age_days<=7)?"isnew":""} ${APPLIED[j.id]?"is-applied":""}" data-id="${esc(j.id)}">
       <div class="top">
         <div>
           <div class="co">
             <span>${esc(j.company)}</span>
             ${j.is_big?`<span class="badge big">${esc(j.big_tier||"大厂")}</span>`:""}
             ${j.fit&&j.board!=="跨行业"?`<span class="badge ${j.fit==="高"?"fit-h":(j.fit==="中"?"fit-m":"fit-l")}">匹配度 ${esc(j.fit)}</span>`:""}
-            ${j.first_seen===STATS.iso?`<span class="badge new">今日新增</span>`:""}
+            ${newBadge(j)}
             ${j.backfill?`<span class="badge bf" title="这个来源第一次接入时收进来的存量岗。它不一定刚发布，只是本站今天才看到">新接入</span>`:""}
             ${j.edu_relax?`<span class="badge relax" title="平台把学历标成硕士，但这岗是执行层（医学编辑 / 医学写作 / 药物警戒 / 注册），经验要求 3 年以内，本科投得进。投前问一句「本科可以吗」就能确认">标硕士·本科可试</span>`:""}
           </div>
