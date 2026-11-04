@@ -4465,61 +4465,6 @@
   "gate": "够一够"
  },
  {
-  "id": "zn:CCL1476314500J40894240910",
-  "company": "上海厚平养老服务有限公司",
-  "title": "中医助理",
-  "city": "上海",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "8000-10000元",
-  "salary_min": 8000,
-  "salary_max": 10000,
-  "salary_note": "",
-  "group": "医疗服务",
-  "track": "医疗服务",
-  "segment": "",
-  "edu": "大专",
-  "exp": "1-3年",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "company_size": "300-499人",
-  "emp": 300,
-  "reason": "医疗行业相关岗位；大专起投",
-  "url": "https://jobs.zhaopin.com/CCL1476314500J40894240910.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "site": "智联招聘",
-  "channel": "招聘平台",
-  "verified_at": "2026-11-04",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "exp_tier": "near",
-  "board": "医疗",
-  "date": "2026-11-04",
-  "style": "院内固定",
-  "boutique": true,
-  "fit": "中",
-  "fit_note": "院内非临床岗稳定；病案编码需另学 ICD 编码规则",
-  "first_seen": "2026-10-29",
-  "posted_at": "2026-10-26",
-  "age_days": 9,
-  "hr_active_days": 0.7,
-  "salary_display": "8000-10000元",
-  "assist": true,
-  "small": false,
-  "need_lic": false,
-  "lic_name": "",
-  "gate": "够一够"
- },
- {
   "id": "zn:CC646500180J41043928504",
   "company": "柏为(武汉)医疗科技股份有限公司",
   "title": "上海-器械销售",
@@ -7168,61 +7113,6 @@
   "gate": "能进"
  },
  {
-  "id": "zn:CCL1480957180J40778249513",
-  "company": "吉膳家健康科技(苏州)有限公司上海分公司",
-  "title": "中医医助",
-  "city": "上海",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "6000-10000元",
-  "salary_min": 6000,
-  "salary_max": 10000,
-  "salary_note": "",
-  "group": "医疗服务",
-  "track": "医疗服务",
-  "segment": "数字健康",
-  "edu": "本科",
-  "exp": "经验不限",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "company_size": "100-299人",
-  "emp": 100,
-  "reason": "医疗行业相关岗位；本科起投、经验不限",
-  "url": "https://jobs.zhaopin.com/CCL1480957180J40778249513.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "site": "智联招聘",
-  "channel": "招聘平台",
-  "verified_at": "2026-11-04",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "exp_tier": "ok",
-  "board": "医疗",
-  "date": "2026-11-04",
-  "style": "院内固定",
-  "boutique": true,
-  "fit": "中",
-  "fit_note": "院内非临床岗稳定；病案编码需另学 ICD 编码规则",
-  "first_seen": "2026-10-29",
-  "posted_at": "2026-10-25",
-  "age_days": 10,
-  "hr_active_days": 0.0,
-  "salary_display": "6000-10000元",
-  "assist": true,
-  "small": false,
-  "need_lic": false,
-  "lic_name": "",
-  "gate": "够一够"
- },
- {
   "id": "ext:f0f4e0f4da1e",
   "company": "杭州药成医药科技",
   "title": "临床协调员CRC（经验不限·学生可投）",
@@ -8148,61 +8038,6 @@
   "salary_display": "6000-8000元",
   "assist": false,
   "small": false,
-  "need_lic": false,
-  "lic_name": "",
-  "gate": "够一够"
- },
- {
-  "id": "zn:CCL1528701070J40910826313",
-  "company": "杭州颜熙医疗美容门诊部有限公司",
-  "title": "医美外科医助",
-  "city": "杭州",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "6000-8000元",
-  "salary_min": 6000,
-  "salary_max": 8000,
-  "salary_note": "",
-  "group": "医疗服务",
-  "track": "医疗服务",
-  "segment": "医美",
-  "edu": "学历不限",
-  "exp": "1-3年",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "company_size": "20-99人",
-  "emp": 20,
-  "reason": "医疗行业相关岗位；学历不限起投",
-  "url": "https://jobs.zhaopin.com/CCL1528701070J40910826313.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "site": "智联招聘",
-  "channel": "招聘平台",
-  "verified_at": "2026-11-04",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "exp_tier": "near",
-  "board": "医疗",
-  "date": "2026-11-04",
-  "style": "院内固定",
-  "boutique": false,
-  "fit": "中",
-  "fit_note": "院内非临床岗稳定；病案编码需另学 ICD 编码规则",
-  "first_seen": "2026-10-29",
-  "posted_at": "2026-10-13",
-  "age_days": 22,
-  "hr_active_days": 22.7,
-  "salary_display": "6000-8000元",
-  "assist": true,
-  "small": true,
   "need_lic": false,
   "lic_name": "",
   "gate": "够一够"
@@ -10153,171 +9988,6 @@
   "gate": "能进"
  },
  {
-  "id": "zn:CCL1465558090J40655958306",
-  "company": "咿呀英博(湖北)控股集团有限公司",
-  "title": "口腔种植医助",
-  "city": "上海",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "5000-8000元",
-  "salary_min": 5000,
-  "salary_max": 8000,
-  "salary_note": "",
-  "group": "医疗服务",
-  "track": "医疗服务",
-  "segment": "医院与诊所",
-  "edu": "大专",
-  "exp": "1-3年",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "company_size": "1000-9999人",
-  "emp": 1000,
-  "reason": "医疗行业相关岗位；大专起投",
-  "url": "https://jobs.zhaopin.com/CCL1465558090J40655958306.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "site": "智联招聘",
-  "channel": "招聘平台",
-  "verified_at": "2026-11-04",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "exp_tier": "near",
-  "board": "医疗",
-  "date": "2026-11-04",
-  "style": "院内固定",
-  "boutique": false,
-  "fit": "中",
-  "fit_note": "院内非临床岗稳定；病案编码需另学 ICD 编码规则",
-  "first_seen": "2026-10-29",
-  "posted_at": "2026-10-22",
-  "age_days": 13,
-  "hr_active_days": 0.7,
-  "salary_display": "5000-8000元",
-  "assist": true,
-  "small": false,
-  "need_lic": false,
-  "lic_name": "",
-  "gate": "够一够"
- },
- {
-  "id": "zn:CCL1498581390J40907001905",
-  "company": "杭州禧善医疗美容诊所有限公司",
-  "title": "皮肤科医助",
-  "city": "杭州",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "5000-8000元",
-  "salary_min": 5000,
-  "salary_max": 8000,
-  "salary_note": "",
-  "group": "医疗服务",
-  "track": "医疗服务",
-  "segment": "医美",
-  "edu": "大专",
-  "exp": "1-3年",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "company_size": "20-99人",
-  "emp": 20,
-  "reason": "医疗行业相关岗位；大专起投",
-  "url": "https://jobs.zhaopin.com/CCL1498581390J40907001905.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "site": "智联招聘",
-  "channel": "招聘平台",
-  "verified_at": "2026-11-04",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "exp_tier": "near",
-  "board": "医疗",
-  "date": "2026-11-04",
-  "style": "院内固定",
-  "boutique": false,
-  "fit": "中",
-  "fit_note": "院内非临床岗稳定；病案编码需另学 ICD 编码规则",
-  "first_seen": "2026-10-29",
-  "posted_at": "2026-11-01",
-  "age_days": 3,
-  "hr_active_days": 2.8,
-  "salary_display": "5000-8000元",
-  "assist": true,
-  "small": true,
-  "need_lic": false,
-  "lic_name": "",
-  "gate": "够一够"
- },
- {
-  "id": "zn:CCL1521057740J40873147901",
-  "company": "杭州禾静中医医院有限公司",
-  "title": "中医医助",
-  "city": "杭州",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "5000-8000元",
-  "salary_min": 5000,
-  "salary_max": 8000,
-  "salary_note": "",
-  "group": "医疗服务",
-  "track": "医疗服务",
-  "segment": "医院与诊所",
-  "edu": "大专",
-  "exp": "1-3年",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "company_size": "300-499人",
-  "emp": 300,
-  "reason": "医疗行业相关岗位；大专起投",
-  "url": "https://jobs.zhaopin.com/CCL1521057740J40873147901.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "site": "智联招聘",
-  "channel": "招聘平台",
-  "verified_at": "2026-11-04",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "exp_tier": "near",
-  "board": "医疗",
-  "date": "2026-11-04",
-  "style": "院内固定",
-  "boutique": true,
-  "fit": "中",
-  "fit_note": "院内非临床岗稳定；病案编码需另学 ICD 编码规则",
-  "first_seen": "2026-10-29",
-  "posted_at": "2026-10-20",
-  "age_days": 15,
-  "hr_active_days": 1.9,
-  "salary_display": "5000-8000元",
-  "assist": true,
-  "small": false,
-  "need_lic": false,
-  "lic_name": "",
-  "gate": "够一够"
- },
- {
   "id": "zn:CCL1234867120J40930886303",
   "company": "浙江天元生物药业有限公司",
   "title": "执行QA现场监管专员",
@@ -11205,61 +10875,6 @@
   "need_lic": false,
   "lic_name": "",
   "gate": "能进"
- },
- {
-  "id": "zn:CC357164520J40915133212",
-  "company": "上海神州医院",
-  "title": "敬老院医助",
-  "city": "上海",
-  "cities_all": [],
-  "group_count": 1,
-  "salary_text": "5000-6000元",
-  "salary_min": 5000,
-  "salary_max": 6000,
-  "salary_note": "",
-  "group": "医疗服务",
-  "track": "医疗服务",
-  "segment": "医院与诊所",
-  "edu": "大专",
-  "exp": "1-3年",
-  "work_type": "全职",
-  "is_intern": false,
-  "is_campus": false,
-  "is_big": false,
-  "big_tier": "",
-  "company_size": "100-299人",
-  "emp": 100,
-  "reason": "医疗行业相关岗位；大专起投",
-  "url": "https://jobs.zhaopin.com/CC357164520J40915133212.htm",
-  "link_kind": "招聘平台",
-  "source": "智联招聘",
-  "site": "智联招聘",
-  "channel": "招聘平台",
-  "verified_at": "2026-11-04",
-  "duties": [],
-  "requirements": [],
-  "benefits": [],
-  "warnings": [],
-  "comment": "",
-  "dev_path": "",
-  "dev_ceiling": "",
-  "exp_tier": "near",
-  "board": "医疗",
-  "date": "2026-11-04",
-  "style": "院内固定",
-  "boutique": true,
-  "fit": "中",
-  "fit_note": "院内非临床岗稳定；病案编码需另学 ICD 编码规则",
-  "first_seen": "2026-10-29",
-  "posted_at": "2026-10-29",
-  "age_days": 6,
-  "hr_active_days": 0.0,
-  "salary_display": "5000-6000元",
-  "assist": true,
-  "small": false,
-  "need_lic": false,
-  "lic_name": "",
-  "gate": "够一够"
  },
  {
   "id": "zn:CCL1348119090J40881566207",
@@ -13677,8 +13292,8 @@
   "gate": "够一够",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -13748,8 +13363,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -13815,8 +13430,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -13879,8 +13494,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -13947,8 +13562,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -14018,8 +13633,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -14091,8 +13706,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -14164,8 +13779,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -14235,8 +13850,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -14306,8 +13921,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -14382,8 +13997,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -14456,8 +14071,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -14529,8 +14144,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -14602,8 +14217,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -15168,7 +14783,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -15235,7 +14850,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -15310,7 +14925,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -15381,7 +14996,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -15454,7 +15069,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -15526,8 +15141,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -15590,8 +15205,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -15659,8 +15274,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -15808,8 +15423,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -15885,8 +15500,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -15961,7 +15576,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -24935,8 +24550,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -25072,8 +24687,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -25146,8 +24761,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -25219,8 +24834,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -25288,8 +24903,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -25361,8 +24976,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -25437,8 +25052,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -25503,8 +25118,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -27690,8 +27305,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -28017,7 +27632,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -28174,7 +27789,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -28812,8 +28427,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -28881,8 +28496,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -28954,8 +28569,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -29025,8 +28640,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -29096,8 +28711,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -29173,8 +28788,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -29247,8 +28862,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -29321,8 +28936,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -29392,8 +29007,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -29858,7 +29473,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -29932,7 +29547,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -30005,7 +29620,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -30077,7 +29692,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -30152,7 +29767,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -30219,7 +29834,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -30290,7 +29905,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -30363,7 +29978,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -30433,7 +30048,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -30517,7 +30132,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -30587,7 +30202,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -32686,8 +32301,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -36434,8 +36049,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -37269,8 +36884,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -37343,8 +36958,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -39096,8 +38711,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -39242,7 +38857,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -39373,7 +38988,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -39520,7 +39135,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -39934,8 +39549,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -40005,8 +39620,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -40076,8 +39691,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -40152,8 +39767,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -40225,8 +39840,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -40297,7 +39912,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -40371,7 +39986,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -40449,7 +40064,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -40518,7 +40133,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -40591,7 +40206,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -40656,8 +40271,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -40730,8 +40345,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
@@ -40872,7 +40487,7 @@
   "peer_sal": {
    "lo": "5K",
    "hi": "8K",
-   "n": 30,
+   "n": 23,
    "scope": "全国"
   }
  },
@@ -40945,8 +40560,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "6K",
-   "hi": "10K",
-   "n": 11,
+   "hi": "12K",
+   "n": 7,
    "scope": "上海"
   }
  },
@@ -41019,8 +40634,8 @@
   "lic_name": "",
   "peer_sal": {
    "lo": "5K",
-   "hi": "8K",
-   "n": 7,
+   "hi": "6.5K",
+   "n": 4,
    "scope": "杭州"
   }
  },
